@@ -34,7 +34,7 @@ A mid-sized omnichannel retailer receives sales data as CSV files. Reporting is 
 | Gold | Serve business questions | Monthly trends, product performance, data-quality summary |
 
 ## Pipeline Lineage
-![Pipeline lineage](images/pipeline_lineage.png)
+![Pipeline lineage](Images/pipeline_lineage.png)
 
 | Object | Type | Description |
 |--------|------|-------------|
@@ -99,7 +99,7 @@ Synthetic retail sales dataset: **1,506 rows × 33 columns**, with intentionally
 | Duplicates | Exact duplicates and business-level duplicates detected at sales-line grain |
 | Auditability | Raw data is always retained in Bronze |
 
-Details: [`docs/data_quality_rules.md`](docs/data_quality_rules.md)
+Details: [`docs/data_quality_rules.md`](Docs/data_quality_rules.md)
 
 ## Reconciliation
 | Check | Result |
