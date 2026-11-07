@@ -1,0 +1,1011 @@
+bill_id,visit_id,patient_id,patient_gender,patient_age,visit_date,visit_type,department,doctor_name,service_category,service_name,hospital_branch,city,region,payer_type,quantity,unit_price,total_amount,insurance_amount,payment_status
+BL100616,VS50201,PT1002,Female,73,2025-04-28,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,742.62,742.62,594.1,Pending
+BL100081,VS50027,PT1155,Male,2,2025-12-21,Outpatient, orthopedics ,Dr. Reddy,Scan,Ultrasound,CHN-Adyar,Chennai,South,Private Insurance,1,1271.21,1271.21,1016.97,Paid
+BL100908,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,590.04,590.04,472.03,Paid
+BL100883,VS50295,PT1254,Female,21,2025-06-27,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Self Pay,1,12482.66,12482.66,0.0,Paid
+BL100380,VS50128,PT1344,Male,63,2025-08-08,Inpatient,General Medicine,Dr. Joshi,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Private Insurance,1,10856.87,10856.87,8685.5,Paid
+BL100057,VS50019,PT1045,Female,11,2025-11-21,Inpatient,General Medicine,Dr. Joshi,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Corporate,1,1096.58,1096.58,767.61,Paid
+BL100979,VS50325,PT1339,Male,53,2025-08-21,Inpatient,Cardiology,Dr. Mehta,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Self Pay,1,997.54,,0.0,Paid
+BL100706,VS50233,PT1185,Female,68,2025-09-24,Outpatient, orthopedics ,Dr. Reddy,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,4,259.12,1036.48,932.83,Paid
+BL100647,VS50212,PT1400,Female,85,2025-03-22,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Corporate,1,529.81,529.81,370.87,Paid
+BL100889,VS50297,PT1369,Male,21,2025-04-04,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1145.79,1145.79,0.0,Paid
+BL100837,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,3,417.62,1252.86,0.0,Paid
+BL100157,VS50052,PT1127,Female,50,2025-10-26,Outpatient,DERMATOLOGY,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,523.38,523.38,418.7,Paid
+BL100969,VS50322,PT1194,Male,39,2025-03-21,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,Self Pay,3,6707.14,20121.42,0.0,Paid
+BL100597,VS50195,PT1258,Female,7,2025-01-15,Inpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,BLR-Whitefield,Bengaluru,South,Government Scheme,1,802.09,802.09,721.88,Pending
+BL100298,VS50100,PT1375,Female,8,2025-12-21,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,590.33,590.33,0.0,Paid
+BL100301,VS50100,PT1375,Female,8,2025-12-21,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Self Pay,1,10779.3,10779.3,0.0,Paid
+BL100192,VS50064,PT1051,Male,13,2025-09-02,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,836.52,836.52,669.22,Paid
+BL100429,VS50143,PT1010,Male,59,2025-04-27,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,3,131.74,395.22,316.18,Pending
+BL100885,VS50296,PT1130,Male,71,2025-06-04,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,792.06,792.06,712.85,Pending
+BL100102,VS50033,PT1383,Female,50,2025-01-11,Outpatient,Neurology,Dr. Sen,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Self Pay,1,355.56,355.56,0.0,Pending
+BL100739,VS50243,PT1193,Male,3,2025-11-06,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,1368.47,1368.47,1231.62,Paid
+BL100984,VS50327,PT1370,Male,51,2025-11-22,Outpatient,Neurology  ,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1014.96,1014.96,0.0,Paid
+BL100440,VS50147,PT1131,Male,22,2025-05-22,Outpatient,Cardiology,Dr. Mehta,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Government Scheme,1,1018.44,1018.44,916.6,Paid
+BL100485,VS50161,PT1369,Female,9,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Corporate,1,643.19,643.19,450.23,Paid
+BL100186,VS50061,PT1043,Male,3,2025-04-22,Outpatient,Pediatrics,Dr. Pillai,lab test,Thyroid Test,CHN-Adyar,Chennai,South,Private Insurance,1,697.13,697.13,557.7,Paid
+BL100813,VS50272,PT1156,Female,6,2025-03-30,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1428.37,1428.37,1142.7,Paid
+BL100022,VS50009,PT1238,Female,62,2025-09-07,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1249.67,1249.67,0.0,Paid
+BL100661,VS50217,PT1005,Male,83,2025-09-18,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1272.56,1272.56,0.0,Paid
+BL100318,VS50106,PT1318,Male,33,2025-01-19,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,1,252.71,252.71,202.17,Paid
+BL100387,VS50130,PT1100,Male,40,2025-06-05,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,945.07,945.07,850.56,Paid
+BL100852,VS50285,PT1334,Female,32,2025-05-04,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Corporate,3,334.69,1004.07,702.85,Paid
+BL100053,VS50018,PT1053,Male,34,2025-04-28,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Corporate,1,1255.78,1255.78,879.05,Pending
+BL100156,VS50051,PT1242,Male,73,2025-04-11,Inpatient,Orthopedics,Dr. Khan,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,4,1617.73,6470.92,5176.74,Paid
+BL100491,VS50162,PT1052,Female,46,2025-07-12,Inpatient,Cardiology,Dr. Mehta,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Private Insurance,1,14237.73,14237.73,11390.18,Paid
+BL100951,VS50317,PT1300,Female,31,2025-01-26,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Government Scheme,2,210.76,421.52,379.37,Pending
+BL100152,VS50050,PT1034,Male,50,2025-03-29,Outpatient,Orthopedics,Dr. Reddy,Scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,1404.26,,0.0,Pending
+BL100504,VS50166,PT1292,Male,14,2025-02-09,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,,1,555.0,555.0,0.0,Paid
+BL100784,VS50260,PT1242,Male,6,2025-12-24,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,3,418.43,1255.29,1004.23,Paid
+BL100596,VS50195,PT1258,Female,7,2025-01-15,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Government Scheme,1,635.77,635.77,572.19,Pending
+BL100362,VS50120,PT1079,Male,17,2025-06-24,Outpatient,General Medicine,Dr. Joshi,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Private Insurance,1,780.23,780.23,624.18,Paid
+BL100915,VS50306,PT1055,Female,39,2025-02-22,Emergency,Neurology,Dr. Sen,Scan,X-Ray,DEL-Saket,Delhi,North,Government Scheme,1,413.55,413.55,372.19,Paid
+BL100095,VS50031,PT1230,Male,83,2025-07-30,Outpatient,  Dermatology,Dr. Patil,Scan,MRI Scan,HYD-Central,Hyderabad,South,Corporate,1,5839.97,5839.97,4087.98,Paid
+BL100629,VS50205,PT1390,Female,19,2025-06-08,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Self Pay,2,2337.19,4674.38,0.0,Paid
+BL100541,VS50179,PT1089,Female,44,2025-12-21,Outpatient,CARDIOLOGY,Dr. Rao,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Private Insurance,1,8039.71,8039.71,6431.77,Paid
+BL100540,VS50179,PT1089,Female,44,2025-12-21,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,510.77,510.77,408.62,Pending
+BL100221,VS50072,PT1054,Male,33,2025-09-08,Inpatient,Orthopedics  ,Dr. Reddy,Room Charges,Private Room Bed-Day,HYD-Central,Hyderabad,South,Self Pay,5,6226.33,31131.65,0.0,Paid
+BL100016,VS50006,PT1142,Male,56,2025-10-09,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,2,141.49,282.98,226.38,Paid
+BL100188,VS50062,PT1200,Male,73,2025-04-19,Emergency,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,526.9,526.9,474.21,Paid
+BL100396,VS50133,PT1054,Female,7,2025-01-22,Outpatient,Orthopedics,Dr. Reddy,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,7211.81,7211.81,0.0,Paid
+BL100584,VS50191,PT1342,Female,18,2025-07-31,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1424.55,1424.55,1139.64,Paid
+BL100731,VS50239,PT1060,Female,4,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Self Pay,1,1017.8,1017.8,0.0,Paid
+BL100791,VS50263,PT1030,Female,30,2025-12-16,Outpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Government Scheme,1,1313.73,1313.73,1182.36,Pending
+BL100972,VS50324,PT1124,Male,16,2025-03-19,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,806.34,806.34,725.71,Paid
+BL100782,VS50259,PT1252,Female,28,2025-01-19,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,5,446.33,2231.65,0.0,Paid
+BL100341,VS50113,PT1117,Male,53,2025-09-26,Outpatient,Neurology,Dr. Sen,Scan,Ultrasound,HYD-Central,Hyderabad,South,Private Insurance,1,1346.26,1346.26,1077.01,Paid
+BL100966,VS50322,PT1194,Male,39,2025-03-21,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1353.22,1353.22,0.0,Paid
+BL100847,VS50283,PT1200,Female,3,2025-01-11,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,PUN-Kothrud,Pune,West,Corporate,1,689.7,689.7,482.79,Paid
+BL100044,VS50015,PT1389,Male,57,2025-01-15,Outpatient,CARDIOLOGY,Dr. Rao,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,952.35,952.35,761.88,Paid
+BL100976,VS50325,PT1339,Male,53,2025-08-21,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,840.65,840.65,0.0,Paid
+BL100269,VS50089,PT1274,Female,9,2025-02-14,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Private Insurance,1,6777.76,6777.76,5422.21,Paid
+BL100184,VS50060,PT1223,Female,11,2025-07-12,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,1,232.99,232.99,186.39,Paid
+BL100072,VS50025,PT1071,Male,75,2025-09-16,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,541.86,541.86,433.49,Paid
+BL100530,VS50174,PT1000,Female,25,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Private Insurance,6,1954.98,11729.88,9383.9,Paid
+BL100865,VS50289,PT1375,Male,4,2025-07-11,Outpatient,Orthopedics,Dr. Khan,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,722.62,722.62,578.1,Paid
+BL100676,VS50222,PT1231,Female,33,2025-10-27,Inpatient,Orthopedics,Dr. Khan,Room Charges,General Ward Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,4,2253.47,9013.88,0.0,Paid
+BL100501,VS50165,PT1236,Female,54,2025-08-25,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,897.61,897.61,718.09,Paid
+BL100214,VS50070,PT1237,Male,19,2025-06-01,Outpatient,General Medicine,Dr. Joshi,Scan,X-Ray,PUN-Kothrud,Pune,West,corporate,1,733.95,733.95,513.76,Paid
+BL100363,VS50121,PT1322,Male,39,2025-07-12,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1358.39,1358.39,1086.71,Paid
+BL100810,VS50270,PT1372,Male,4,2025-01-08,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,-2,267.76,1071.04,856.83,Paid
+BL100613,VS50200,PT1302,Male,26,2025-02-20,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,MUM-Andheri,Mumbai  ,West,Government Scheme,1,1070.16,1070.16,963.14,Paid
+BL100898,VS50301,PT1316,Female,56,2025-02-07,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1405.67,1405.67,0.0,Pending
+BL100764,VS50253,PT1395,Male,56,2025-02-15,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Private Insurance,1,677.74,677.74,542.19,Paid
+BL100742,VS50244,PT1286,Male,19,2025-03-21,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,5,238.01,1190.05,952.04,Paid
+BL100024,VS50009,PT1238,Female,62,2025-09-07,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,2,575.49,1150.98,0.0,Paid
+BL100875,VS50293,PT1153,Male,27,2025-05-23,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,145.74,437.22,0.0,Pending
+BL100262,VS50087,PT1077,Female,75,2025-01-08,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,0,1184.82,1184.82,947.86,Paid
+BL100980,VS50325,PT1339,Male,53,2025-08-21,Inpatient,Cardiology,Dr. Mehta,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Self Pay,5,1825.35,9126.75,0.0,Paid
+BL100461,VS50154,PT1384,Male,14,2025-05-17,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,MUM-Andheri,Mumbai,West,Government Scheme,1,480.8,480.8,432.72,Paid
+BL100296,VS50099,PT1146,Male,47,2025-09-27,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Self Pay,1,23118.53,23118.53,0.0,Paid
+BL100964,VS50321,PT1121,Female,29,2025-05-15,Inpatient,Orthopedics,Dr. Khan,Procedure,Physiotherapy Session,DEL-Saket,Delhi,North,Self Pay,1,1357.26,1357.26,0.0,Paid
+BL100694,VS50228,PT1045,Male,20,2025-02-12,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,458.39,458.39,0.0,Paid
+BL100577,VS50188,PT1101,Female,57,2025-09-01,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Self Pay,1,21236.99,21236.99,0.0,Paid
+BL100869,VS50291,PT1290,Male,13,2025-06-13,Emergency,Pediatrics,Dr. Pillai,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,440.39,440.39,352.31,Paid
+BL100063,VS50021,PT1117,Female,26,2025-04-21,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1481.88,1481.88,0.0,Pending
+BL100013,VS50005,PT1374,Female,83,2025-02-01,Outpatient,Neurology,Dr. Sen,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,705.46,705.46,564.37,Paid
+BL100272,VS50091,PT1010,Male,5,2025-11-07,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1086.71,1086.71,0.0,Paid
+BL100292,VS50098,PT1061,Female,26,2025-05-27,Outpatient,,Dr. Patil,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,2,589.32,1178.64,942.91,Paid
+BL100105,VS50034,PT1065,Male,55,2025-01-12,Outpatient,Dermatology,Dr. Patil,Scan,X-Ray,MUM-Andheri,Mumbai,West,Corporate,1,476.03,476.03,333.22,Pending
+BL100082,VS50028,PT1008,Female,8,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,1493.97,1493.97,1045.78,Paid
+BL100891,VS50297,PT1369,Male,21,2025-04-04,Outpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,522.99,522.99,0.0,Paid
+BL100178,VS50059,,Female,78,2025-10-15,Inpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,611.39,611.39,0.0,Paid
+BL100559,VS50184,PT1310,Male,21,2025-09-17,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,PRIVATE INSURANCE,1,1353.49,1353.49,1082.79,Paid
+BL100586,VS50192,PT1067,Male,29,2025-12-14,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1398.34,1398.34,1118.67,Pending
+BL100493,VS50163,PT1302,Male,40,2025-01-30,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,765.4,765.4,612.32,Paid
+BL100325,VS50108,PT1363,Female,8,2025-10-08,Inpatient,Pediatrics,Dr. Pillai,Room Charges,Private Room Bed-Day,DEL-Saket,Delhi,North,Self Pay,5,4809.78,24048.9,0.0,Pending
+BL100386,VS50129,PT1263,Female,18,2025-01-04,Inpatient,General Medicine,Dr. Nair,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Private Insurance,3,4343.43,13030.29,10424.23,Paid
+BL100745,VS50245,PT1367,Male,31,2025-06-24,Outpatient,  General Medicine,Dr. Joshi,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,4,456.04,1824.16,1641.74,Paid
+BL100605,VS50197,PT1378,Male,46,2025-01-23,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,842.94,842.94,0.0,Pending
+BL100957,VS50319,PT1392,Female,6,2025-08-29,Outpatient,General Medicine,Dr. Joshi,Scan,MRI Scan,HYD-Central,Hyderabad,South,Private Insurance,1,7328.92,7328.92,5863.14,Paid
+BL100257,VS50085,PT1321,Female,59,2025-05-31,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,560.55,560.55,504.49,Pending
+BL100128,VS50044,PT1282,Female,21,2025-09-04,Inpatient,  Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1124.6,1124.6,899.68,Paid
+BL100279,VS50094,PT1180,Male,71,2025-05-12,Emergency,Dermatology,Dr. Patil,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,533.46,533.46,0.0,Paid
+BL100874,VS50293,PT1153,Male,27,2025-05-23,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1310.69,1310.69,0.0,Paid
+BL100304,VS50101,,Female,74,2025-06-14,Outpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,DEL-Saket,Delhi,North,Self Pay,1,933.33,933.33,0.0,Pending
+BL100323,VS50108,PT1363,Female,8,2025-10-08,Inpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,DEL-Saket,Delhi  ,North,Self Pay,1,1415.39,1415.39,0.0,Pending
+BL100718,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Self Pay,1,24595.94,24595.94,0.0,Paid
+BL100286,VS50096,PT1038,Female,44,2025-11-18,Outpatient, general medicine ,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,741.64,741.64,667.48,Paid
+BL100572,VS50187,PT1043,Female,64,2025-11-29,Inpatient,Cardiology,Dr. Mehta,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,Corporate,1,1316.84,1316.84,921.79,Paid
+BL100621,VS50203,PT1331,Male,65,2025-10-12,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1161.45,1161.45,1045.31,Paid
+BL100029,VS50011,PT1014,Female,61,2025-01-15,Inpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Private Insurance,1,1073.0,1073.0,858.4,Paid
+BL100338,VS50112,PT1005,Male,7,2025-08-07,Emergency,Neurology,Dr. Sen,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,6252.83,6252.83,0.0,Paid
+BL100138,VS50047,PT1179,Male,5,2025-11-14,Inpatient,Cardiology,Dr. Rao,CONSULTATION,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,703.98,703.98,563.18,Paid
+BL100892,VS50298,PT1322,Male,10,2025-06-06,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,871.65,871.65,784.49,Paid
+BL100945,VS50315,PT1148,Female,1,2025-04-10,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,2,1748.23,3496.46,2797.17,Paid
+BL100404,VS50136,PT1292,Female,48,2025-10-17,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,2,211.24,422.48,337.98,Paid
+BL100655,VS50215,PT1245,Male,30,2025-09-06,Outpatient,Dermatology,Dr. Patil,Scan  ,MRI Scan,HYD-Central,Hyderabad,South,Private Insurance,1,6611.25,6611.25,5289.0,Pending
+BL100677,VS50223,PT1361,Male,58,2025-12-01,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,1398.77,1398.77,1258.89,Pending
+BL100671,VS50221,PT1232,Female,72,2025-11-07,Outpatient,Cardiology  ,Dr. Rao,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Government Scheme,1,589.49,589.49,530.54,Paid
+BL100598,VS50195,PT1258,Female,7,2025-01-15,Inpatient,Pediatrics,Dr. Pillai,Procedure,Physiotherapy Session,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1260.48,1260.48,1134.43,Paid
+BL100226,VS50074,PT1269,Male,51,2025-07-25,Inpatient,Neurology,Dr. Sen,Pharmacy,Medicines,HYD-Central,Hyderabad,South,SELF PAY,2,276.57,553.14,0.0,Paid
+BL100944,VS50315,PT1148,Female,1,2025-04-10,Inpatient,Pediatrics,Dr. Pillai,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,Private Insurance,1,1443.98,1443.98,1155.18,Paid
+BL100107,VS50035,PT1000,Male,30,2025-01-21,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,1,149.72,149.72,119.78,Paid
+BL100823,VS50274,PT1169,Male,5,2025-12-10,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,4,4190.39,16761.56,0.0,Paid
+BL100689,VS50227,PT1393,Male,6,2025-10-31,Inpatient,Pediatrics,Dr. Pillai, scan ,MRI Scan,DEL-Saket,Delhi,North,Self Pay,1,7765.3,7765.3,0.0,Paid
+BL100374,VS50126,PT1343,Female,1,2025-08-11,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1401.07,1401.07,1120.86,Pending
+BL100521,VS50172,PT1280,Male,20,2025-06-16,Inpatient,Dermatology,Dr. Patil,Scan,MRI Scan,CHN-Adyar,Chennai,South,Corporate,1,5505.14,5505.14,3853.6,Paid
+BL100639,VS50209,PT1386,Male,34,2025-05-28,Inpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Self Pay,1,1076.35,1076.35,0.0,Paid
+BL100917,VS50307,PT1148,Female,57,2025-03-12,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,5,572.28,2861.4,2289.12,Paid
+BL100806,VS50269,PT1197,Male,48,2025-12-01,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,2,179.08,358.16,286.53,Paid
+BL100278,VS50094,PT1180,Male,71,2025-05-12,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1286.37,1286.37,0.0,Paid
+BL100652,VS50214,PT1134,Male,7,2025-08-30,Outpatient,,Dr. Nair,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1336.42,1336.42,1069.14,Paid
+BL100702,VS50232,PT1237,Female,40,2025-04-26,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Self Pay,1,4720.84,4720.84,0.0,Paid
+BL100659,VS50216,PT1268,Male,4,2025-08-10,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Self Pay,1,9265.4,9265.4,0.0,Paid
+BL100517,VS50170,PT1383,Female,28,2025-12-12,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,770.55,770.55,0.0,Pending
+BL100565,VS50185,PT1341,Female,2,2025-05-10,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Corporate,1,8968.65,8968.65,6278.05,Pending
+BL100750,VS50247,PT1228,Male,19,2025-04-22,Outpatient,  General Medicine,Dr. Nair,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,4,519.96,2079.84,0.0,Paid
+BL100593,VS50194,PT1016,Male,9,2025-11-01,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Private Insurance,1,818.42,818.42,654.74,Paid
+BL100420,VS50140,PT1308,Male,5,2025-06-17,Inpatient, cardiology ,Dr. Mehta,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Self Pay,1,877.29,877.29,0.0,Pending
+BL100459,VS50153,PT1363,Female,31,2025-05-15,Outpatient,General Medicine,Dr. Joshi,Scan,MRI Scan,HYD-Central,Hyderabad,South,Self Pay,1,5843.07,5843.07,0.0,Pending
+BL100149,VS50049,PT1329,Male,51,2025-07-06,Inpatient,Neurology,Dr. Sen,Room Charges,General Ward Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,6,2122.19,12733.14,0.0,Paid
+BL100464,VS50155,PT1093,Female,18,2025-08-13,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,3,175.4,526.2,473.58,Paid
+BL100684,VS50225,PT1068,Male,48,2025-07-25,Emergency,GENERAL MEDICINE,Dr. Joshi,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,4,407.99,1631.96,1305.57,Paid
+BL100113,VS50037,PT1217,Female,30,2025-12-08,Outpatient,General Medicine,Dr. Nair,Scan,Ultrasound,HYD-Central,Hyderabad,South,Self Pay,1,987.66,987.66,0.0,Paid
+BL100143,VS50048,PT1273,Male,84,2025-11-24,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,909.79,909.79,727.83,Paid
+BL100748,VS50246,,Male,72,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Scan,X-Ray,MUM-Andheri,Mumbai,West,Corporate,1,513.84,513.84,359.69,Pending
+BL100031,VS50011,PT1014,Female,61,2025-01-15,Inpatient,Orthopedics,Dr. Khan,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,  Private Insurance,1,943.06,943.06,754.45,Paid
+BL100843,VS50282,PT1328,Male,21,2025-03-20,Outpatient,General Medicine,Dr. Nair,Scan,X-Ray,MUM-Andheri,Mumbai,West,Self Pay,1,613.61,613.61,0.0,Paid
+BL100258,VS50085,PT1321,Female,59,2025-05-31,Emergency,Neurology,Dr. Sen,Lab Test,Blood Test,DEL-Saket,Delhi,North,Government Scheme,1,533.37,,480.03,Paid
+BL100047,VS50016,PT1161,Male,31,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1283.94,1283.94,0.0,Pending
+BL100487,VS50161,PT1369,Female,9,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Corporate,4,1881.26,7525.04,5267.53,Pending
+BL100088,VS50029,PT1348,Female,52,2025-09-09,Emergency,General Medicine,Dr. Nair,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,572.02,572.02,0.0,Pending
+BL100106,VS50035,PT1000,Male,30,2025-01-21,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1462.43,1462.43,1169.94,Paid
+BL100197,VS50065,PT1316,Male,53,2025-05-28,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,2,5570.67,11141.34,8913.07,Paid
+BL100324,VS50108,PT1363,Female,8,2025-10-08,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Self Pay,1,22651.71,22651.71,0.0,Paid
+BL100172,VS50057,PT1113,Male,5,2025-01-18,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,632.02,632.02,0.0,Paid
+BL100780,VS50258,PT1212,Female,76,2025-10-21,Outpatient,Cardiology,Dr. Rao,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Government Scheme,1,765.08,765.08,688.57,Paid
+BL100610,VS50198,PT1199,Male,46,2025-09-18,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Private Insurance,1,580.3,580.3,464.24,Paid
+BL100640,VS50209,PT1386,Male,34,2025-05-28,Inpatient,,Dr. Patil,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Self Pay,1,18899.34,18899.34,0.0,Paid
+BL100985,VS50327,PT1370,Male,51,2025-11-22,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,DEL-Saket,Delhi,North,Self Pay  ,1,8237.05,8237.05,0.0,Paid
+BL100032,VS50011,PT1014,Female,61,2025-01-15,Inpatient,Orthopedics,Dr. Khan,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,5,2409.2,12046.0,9636.8,Paid
+BL100567,VS50186,PT1070,Male,35,2025-09-05,Outpatient, orthopedics ,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Corporate,1,1497.71,1497.71,1048.4,Paid
+BL100834,VS50279,PT1340,Male,1,2025-08-09,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Self Pay,1,826.42,826.42,0.0,Paid
+BL100772,VS50256,PT1307,Female,85,2025-01-12,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Private Insurance,1,600.19,600.19,480.15,Pending
+BL100155,VS50051,PT1242,Male,73,2025-04-11,Inpatient,Orthopedics,Dr. Khan,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Private Insurance,1,8698.68,8698.68,6958.94,Paid
+BL100187,VS50061,PT1043,Male,3,2025-04-22,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,4,519.86,2079.44,1663.55,Paid
+BL100989,VS50329,PT1349,Male,12,2025-12-24,Outpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Private Insurance,1,2057.36,2057.36,1645.89,Pending
+BL100116,VS50039,PT1094,Female,8,2025-01-31,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1431.6,1431.6,0.0,Paid
+BL100099,VS50032,,Male,65,2025-03-24,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,404.82,404.82,0.0,Paid
+BL100010,VS50004,PT1250,Female,6,2025-03-19,Emergency,Cardiology,Dr. Mehta,CONSULTATION,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,840.12,840.12,756.11,Paid
+BL100012,VS50005,PT1374,Female,83,2025-02-01,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,522.56,522.56,418.05,Paid
+BL100700,VS50231,PT1216,Female,8,2025-09-14,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Government Scheme,1,868.83,868.83,781.95,Pending
+BL100416,VS50139,PT1218,Male,80,2025-03-11,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Self Pay,1,22035.72,22035.72,0.0,Paid
+BL100351,VS50116,PT1239,Female,8,2025-09-09,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Corporate,1,-643.93,643.93,450.75,Paid
+BL100218,VS50072,PT1054,Male,33,2025-09-08,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1019.22,1019.22,0.0,Paid
+BL100536,VS50177,PT1206,Male,17,2025-05-26,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Corporate,4,495.84,1983.36,1388.35,Paid
+BL100719,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,3,6188.15,18564.45,0.0,Pending
+BL100699,VS50231,PT1216,Female,8,2025-09-14,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,720.98,720.98,648.88,Paid
+BL100867,VS50290,PT1337,Female,38,2025-03-29,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,3,250.51,751.53,601.22,Paid
+BL100293,VS50099,PT1146,Male,47,2025-09-27,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,776.85,,0.0,Paid
+BL100512,VS50168,PT1106,Female,60,2025-01-27,Emergency,General Medicine,Dr. Nair,Lab Test,Blood Test,CHN-Adyar,Chennai,South, self pay ,1,619.85,619.85,0.0,Paid
+BL100729,VS50239,PT1060,Female,4,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,570.65,570.65,0.0,Paid
+BL100454,VS50152,PT1124,Female,64,2025-12-30,Inpatient,,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1401.03,1401.03,0.0,Paid
+BL100701,VS50232,PT1237,Female,40,2025-04-26,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1274.63,1274.63,0.0,Paid
+BL100122,VS50041,PT1015,Female,4,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,454.21,454.21,0.0,Paid
+BL100141,VS50047,PT1179,Male,5,2025-11-14,Inpatient,,Dr. Rao,Procedure,Physiotherapy Session,DEL-Saket,Delhi,North,Private Insurance,1,929.6,929.6,743.68,Paid
+BL100497,VS50164,PT1021,Female,53,2025-07-07,Inpatient,Neurology,Dr. Sen,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,5,195.8,979.0,783.2,Pending
+BL100219,VS50072,PT1054,Male,33,2025-09-08,Inpatient,Orthopedics,Dr. Reddy,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,824.62,824.62,0.0,Paid
+BL100087,VS50029,PT1348,Female,52,2025-09-09,Emergency,General Medicine,Dr. Nair,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,1,262.27,262.27,0.0,Paid
+BL100282,VS50095,PT1053,Female,42,2025-12-01,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,4,458.61,1834.44,1467.55,Paid
+BL100800,VS50267,PT1044,Female,41,2025-08-07,Emergency,dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,850.03,850.03,0.0,Paid
+BL100200,VS50066,PT1355,Male,64,2025-09-09,Inpatient,Cardiology,Dr. Rao,Scan,X-Ray,CHN-Adyar,Chennai,South,Private Insurance,1,645.15,645.15,516.12,Pending
+BL100377,VS50127,PT1382,Male,36,2025-07-21,Outpatient,Neurology,Dr. Sen,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Private Insurance,1,1860.19,1860.19,1488.15,Pending
+BL100734,VS50240,PT1293,Male,77,2025-06-30,Outpatient,Neurology,Dr. Sen,Scan,Ultrasound,DEL-Saket,Delhi,North,Government Scheme,1,1195.22,1195.22,1075.7,Paid
+BL100704,VS50233,PT1185,Female,68,2025-09-24,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1123.74,1123.74,1011.37,Paid
+BL100515,VS50169,PT1149,Male,27,2025-08-13,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,1,507.15,507.15,0.0,Paid
+BL100857,VS50287,PT1051,Female,15,2025-03-28,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1377.6,1377.6,0.0,Paid
+BL100903,VS50302,PT1004,Male,5,2025-08-09,Emergency,Pediatrics,Dr. Pillai,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Private Insurance,1,385.63,385.63,308.5,Paid
+BL100931,VS50311,PT1072,Female,72,2025-07-19,Inpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,4,337.65,1350.6,0.0,Paid
+BL100422,VS50141,PT1353,Female,57,2025-10-03,Inpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,1494.48,1494.48,1345.03,Paid
+BL100091,VS50030,PT1199,Male,47,2025-07-21,Inpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,761.74,761.74,0.0,Paid
+BL100252,VS50083,PT1060,Female,74,2025-01-21,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1179.96,1179.96,943.97,Paid
+BL100949,VS50317,PT1300,Female,31,2025-01-26,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,895.08,895.08,805.57,Paid
+BL100344,VS50114,PT1159,Male,15,2025-02-08,Inpatient,Orthopedics,Dr. Reddy,Scan,X-Ray,CHN-Adyar,Chennai,South,Self Pay,1,715.05,715.05,0.0,Paid
+BL100315,VS50105,PT1166,Male,11,2025-01-28,Inpatient,Pediatrics,Dr. Pillai,Procedure,Physiotherapy Session,MUM-Andheri,Mumbai,West,Government Scheme,1,1343.61,1343.61,1209.25,Pending
+BL100180,VS50059,PT1179,Female,78,2025-10-15,Inpatient,General Medicine,Dr. Nair,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Self Pay,1,10418.53,10418.53,0.0,Paid
+BL100142,VS50047,PT1179,Male,5,2025-11-14,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Private Insurance,2,2295.28,4590.56,3672.45,Paid
+BL100710,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,PRIVATE INSURANCE,1,1106.15,1106.15,884.92,Paid
+BL100960,VS50320,PT1337,Male,56,2025-10-17,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Self Pay,1,925.82,925.82,0.0,Paid
+BL100771,VS50256,PT1307,Female,85,2025-01-12,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,  Private Insurance,4,187.52,750.08,600.06,Paid
+BL100445,VS50148,PT1002,Male,35,2025-03-11,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Self Pay,2,2126.31,4252.62,0.0,Paid
+BL100708,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil, lab test ,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,337.92,337.92,270.34,Paid
+BL100331,VS50110,PT1345,Male,79,2025-03-13,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Private Insurance,1,15104.47,15104.47,12083.58,Paid
+BL100864,VS50289,PT1375,Male,4,2025-07-11,Outpatient,Orthopedics,Dr. Khan, lab test ,Thyroid Test,DEL-Saket,Delhi,North,Private Insurance,1,980.51,980.51,784.41,Paid
+BL100620,VS50202,PT1134,Male,20,2025-07-31,Outpatient,Orthopedics,Dr. Khan,Scan,X-Ray,PUN-Kothrud,Pune,West,Private Insurance,1,707.95,707.95,566.36,Paid
+BL100133,VS50045,PT1125,Male,20,2025-04-06,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,564.8,564.8,451.84,Paid
+BL100527,VS50174,PT1000,Female,25,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,550.06,550.06,440.05,Paid
+BL100553,VS50182,PT1320,Female,49,2025-07-22,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,5,108.18,540.9,432.72,Paid
+BL100624,VS50204,PT1376,Male,55,2025-11-29,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,1,465.09,465.09,0.0,Pending
+BL100747,VS50246,PT1044,Male,72,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,,1,744.95,744.95,521.47,Paid
+BL100836,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,SCAN,X-Ray,MUM-Andheri,Mumbai,West,Self Pay,1,813.02,813.02,0.0,Pending
+BL100531,VS50175,PT1262,Male,53,2025-01-21,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,576.23,576.23,0.0,Paid
+BL100230,VS50075,PT1001,Female,46,2025-09-04,Outpatient,  General Medicine,Dr. Nair,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,3,176.38,529.14,423.31,Paid
+BL100023,VS50009,PT1238,Female,62,2025-09-07,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,,1,997.31,997.31,0.0,Paid
+BL100202,VS50066,PT1355,Male,64,2025-09-09,Inpatient,Cardiology,Dr. Rao,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,Private Insurance,5,6675.53,33377.65,26702.12,Paid
+BL100264,VS50087,PT1077,Female,75,2025-01-08,Outpatient,Cardiology,Dr. Mehta,Scan,X-Ray,PUN-Kothrud,Pune,West,Private Insurance,1,560.76,560.76,448.61,Paid
+BL100787,VS50261,PT1041,Male,4,2025-02-14,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Private Insurance,1,1141.71,1141.71,913.37,Paid
+BL100496,VS50164,PT1021,Female,53,2025-07-07,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,738.63,738.63,590.9,Pending
+BL100526,VS50173,PT1268,Male,38,2025-12-02,Outpatient,Neurology,Dr. Sen,Lab Test,Blood Test,DEL-Saket,Delhi,North,Corporate,1,420.79,420.79,294.55,Paid
+BL100235,VS50078,PT1029,Female,60,2025-10-13,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,-746.57,746.57,597.26,Paid
+BL100175,VS50058,PT1319,Female,3,2025-07-07,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1207.47,1207.47,0.0,Paid
+BL100068,VS50023,PT1111,Female,3,2025-06-08,Outpatient, pediatrics ,Dr. Pillai,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Self Pay,1,1161.27,1161.27,0.0,Paid
+BL100300,VS50100,PT1375,Female,8,2025-12-21,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,BLR-Whitefield,bengaluru,South,Self Pay,2,381.56,763.12,0.0,Pending
+BL100158,VS50052,PT1127,Female,50,2025-10-26,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,DEL-Saket,Delhi,North,Private Insurance,1,6593.73,6593.73,5274.98,Paid
+BL100087,VS50029,PT1348,Female,52,2025-09-09,Emergency,General Medicine,Dr. Nair,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,1,262.27,262.27,0.0,Paid
+BL100273,VS50091,PT1010,Male,5,2025-11-07,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,4,148.55,594.2,0.0,Paid
+BL100723,VS50237,PT1294,Female,2,2025-04-29,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Government Scheme,1,8214.05,8214.05,7392.64,Paid
+BL100887,VS50296,PT1130,Male,71,2025-06-04,Inpatient,Neurology,Dr. Sen,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Government Scheme,1,932.37,932.37,839.13,Paid
+BL100220,VS50072,PT1054,Male,33,2025-09-08,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Self Pay,1,18867.44,18867.44,0.0,Pending
+BL100366,VS50122,PT1138,Female,4,2025-10-05,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,889.93,889.93,711.94,Paid
+BL100886,VS50296,PT1130,Male,71,2025-06-04,Inpatient,Neurology,Dr. Sen,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,4,318.34,1273.36,1146.02,Paid
+BL100160,VS50053,PT1258,Male,6,2025-08-15,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1277.64,1277.64,0.0,Paid
+BL100895,VS50299,PT1101,Male,27,2025-01-26,Outpatient,Dermatology,Dr. Patil,Scan,X-Ray,HYD-Central,Hyderabad,South,Government Scheme,1,525.18,525.18,472.66,Paid
+BL100628,VS50205,PT1390,Female,19,2025-06-08,Inpatient,Cardiology,Dr. Rao,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Self Pay,1,23578.87,23578.87,0.0,Paid
+BL100303,VS50101,PT1398,Female,74,2025-06-14,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1454.05,1454.05,0.0,Paid
+BL100603,VS50196,PT1057,Female,22,2025-04-08,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Self Pay,1,9066.4,9066.4,0.0,Paid
+BL100336,VS50112,PT1005,Male,7,2025-08-07,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1420.31,1420.31,0.0,Paid
+BL100672,VS50221,PT1232,Female,72,2025-11-07,Outpatient,Cardiology,Dr. Rao,Scan,Ultrasound,PUN-Kothrud,Pune,West,Government Scheme,1,1075.84,1075.84,968.26,Paid
+BL100804,VS50268,PT1299,Female,50,2025-05-17,Emergency,Orthopedics,Dr. Khan,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Corporate,1,556.69,556.69,389.68,Pending
+BL100632,VS50206,PT1092,Female,57,2025-01-29,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,888.52,888.52,799.67,Paid
+BL100397,VS50134,PT1045,Male,57,2025-07-25,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,502.8,502.8,402.24,Pending
+BL100692,VS50228,PT1045,Male,20,2025-02-12,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,820.16,820.16,0.0,Paid
+BL100826,VS50276,PT1082,Female,57,2025-05-22,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,591.47,591.47,473.18,Paid
+BL100035,VS50012,PT1244,Male,56,2025-04-13,Inpatient,Dermatology,Dr. Patil,Scan,X-Ray,MUM-Andheri,Mumbai,West,Government Scheme,1,695.41,695.41,625.87,Paid
+BL100360,VS50119,PT1202,Female,15,2025-05-29,Outpatient,Orthopedics,Dr. Reddy,Scan,X-Ray,MUM-Andheri,Mumbai,West,Self Pay,1,593.68,593.68,0.0,Paid
+BL100433,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Scan,MRI Scan,DEL-Saket,Delhi,North,Self Pay,1,6766.8,6766.8,0.0,Pending
+BL100290,VS50098,PT1061,Female,26,2025-05-27,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1425.08,1425.08,1140.06,Paid
+BL100287,VS50096,PT1038,Female,44,2025-11-18,Outpatient,General Medicine,Dr. Joshi,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Government Scheme,1,6990.18,6990.18,6291.16,Paid
+BL100268,VS50089,PT1274,Female,9,2025-02-14,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1385.09,1385.09,1108.07,Paid
+BL100936,VS50313,PT1000,Male,30,2025-07-12,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West, government scheme ,1,1093.55,1093.55,984.19,Paid
+BL100893,VS50298,PT1322,Male,10,2025-06-06,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Government Scheme,2,445.64,891.28,802.15,Paid
+BL100433,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Scan,MRI Scan,DEL-Saket,Delhi,North,Self Pay,1,6766.8,6766.8,0.0,Pending
+BL100844,VS50282,PT1328,Male,21,2025-03-20,Outpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Self Pay,1,805.54,805.54,0.0,Paid
+BL100802,VS50268,PT1299,Female,50,2025-05-17,Emergency,orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Corporate,1,1096.56,1096.56,767.59,Paid
+BL100302,VS50100,PT1375,Female,8,2025-12-21,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,4,2019.82,8079.28,0.0,Paid
+BL100881,VS50295,PT1254,Female,21,2025-06-27,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,  Self Pay,1,971.84,971.84,0.0,Paid
+BL100352,VS50116,PT1239,Female,8,2025-09-09,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,,2,116.45,232.9,163.03,Paid
+BL100452,VS50151,PT1205,Male,4,2025-04-27,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Corporate,1,1043.27,1043.27,730.29,Paid
+BL100929,VS50311,PT1072,Female,72,2025-07-19,Inpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1183.02,1183.02,0.0,Paid
+BL100394,VS50132,PT1151,Female,24,2025-03-16,Outpatient,Dermatology,Dr. Patil,Lab Test  ,Blood Test,HYD-Central,Hyderabad,South,Government Scheme,1,688.38,688.38,619.54,Paid
+BL100528,VS50174,PT1000,Female,25,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,4,223.7,,715.84,Paid
+BL100342,VS50114,PT1159,Male,15,2025-02-08,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1131.1,1131.1,0.0,Paid
+BL100011,VS50004,PT1250,Female,6,2025-03-19,Emergency,Cardiology,Dr. Mehta,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South, government scheme ,5,498.45,2492.25,2243.03,Paid
+BL100561,VS50184,PT1310,Male,21,2025-09-17,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Private Insurance,1,905.75,905.75,724.6,Pending
+BL100608,VS50198,PT1199,Male,46,2025-09-18,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1210.21,1210.21,968.17,Pending
+BL100941,VS50315,PT1148,Female,1,2025-04-10,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,833.29,833.29,666.63,Paid
+BL100722,VS50237,PT1294,Female,2,2025-04-29,Inpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,government scheme,1,736.65,736.65,662.99,Paid
+BL100872,VS50292,PT1225,Male,14,2025-04-28,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,5,113.02,,452.08,Paid
+BL100308,VS50103,PT1048,Male,1,2025-06-29,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,373.22,373.22,298.58,Paid
+BL100685,VS50226,PT1360,Female,41,2025-06-26,Outpatient,,Dr. Nair,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1176.45,1176.45,941.16,Paid
+BL100196,VS50065,PT1316,Male,53,2025-05-28,Inpatient,Neurology,Dr. Sen, procedure ,Minor Surgery,PUN-Kothrud,Pune,West,Private Insurance,1,17767.2,17767.2,14213.76,Paid
+BL100412,VS50138,PT1052,Female,14,2025-09-21,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Corporate,3,488.08,1464.24,1024.97,Paid
+BL100223,VS50073,PT1373,Female,82,2025-03-04,Emergency,Orthopedics,Dr. Reddy,Scan,X-Ray,PUN-Kothrud,Pune,West,Government Scheme,1,609.29,609.29,548.36,Paid
+BL100473,VS50158,PT1260,Male,53,2025-04-11,Outpatient,Neurology,Dr. Sen,Scan,Ultrasound,HYD-Central,Hyderabad,South,Corporate,1,1266.78,1266.78,886.75,Paid
+BL100030,VS50011,PT1014,Female,61,2025-01-15,Inpatient,Orthopedics,Dr. Khan,Scan,X-Ray,PUN-Kothrud,Pune,West,Private Insurance,1,451.08,451.08,360.86,Paid
+BL100824,VS50275,PT1337,Male,24,2025-03-07,Emergency,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,612.89,612.89,490.31,Paid
+BL100411,VS50138,PT1052,Female,14,2025-09-21,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1063.03,1063.03,744.12,Paid
+BL100311,VS50104,PT1325,Female,54,2025-01-10,Outpatient,Dermatology,Dr. Patil,SCAN,X-Ray,DEL-Saket,Delhi,North,Self Pay,1,819.28,819.28,0.0,Paid
+BL100669,VS50220,PT1138,Male,42,2025-08-22,Emergency,Orthopedics,Dr. Reddy,Scan,X-Ray,BLR-Whitefield,Bengaluru,South,Self Pay,1,684.29,684.29,0.0,Paid
+BL100244,VS50080,PT1398,Male,37,2025-08-31,Inpatient,Neurology,Dr. Sen,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Self Pay,4,1692.31,6769.24,0.0,Paid
+BL100569,VS50187,PT1043,Female,64,2025-11-29,Inpatient,Cardiology,Dr. Mehta,consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Corporate,1,661.87,661.87,463.31,Paid
+BL100701,VS50232,PT1237,Female,40,2025-04-26,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1274.63,1274.63,0.0,Paid
+BL100280,VS50095,PT1053,Female,42,2025-12-01,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,874.98,874.98,699.98,Paid
+BL100390,VS50131,PT1330,Female,56,2025-02-25,Outpatient,DERMATOLOGY,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,859.3,859.3,687.44,Paid
+BL100573,VS50187,PT1043,Female,64,2025-11-29,Inpatient,Cardiology,Dr. Mehta,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Corporate,2,5761.82,11523.64,8066.55,Pending
+BL100148,VS50049,PT1329,Male,51,2025-07-06,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Self Pay,1,18891.33,18891.33,0.0,Pending
+BL100551,VS50182,PT1320,Female,49,2025-07-22,Outpatient,GENERAL MEDICINE,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1163.28,1163.28,930.62,Pending
+BL100477,VS50159,PT1077,Female,50,2025-07-16,Inpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,2,431.71,863.42,690.74,Paid
+BL100436,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,DEL-Saket,Delhi,North,Self Pay,5,5336.55,26682.75,0.0,Paid
+BL100698,VS50230,PT1097,Female,60,2025-03-19,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,2,106.57,213.14,0.0,Pending
+BL100576,VS50188,PT1101,Female,57,2025-09-01,Inpatient,Neurology,Dr. Sen,scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,1485.31,1485.31,0.0,Pending
+BL100483,VS50161,PT1369,Female,9,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,565.85,565.85,396.09,Paid
+BL100402,VS50135,PT1002,Female,73,2025-06-01,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,DEL-Saket,Delhi,North,Self Pay,1,884.62,884.62,0.0,Pending
+BL100547,VS50181,PT1155,Male,60,2025-12-22,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1325.17,1325.17,0.0,Paid
+BL100768,VS50255,PT1012,Male,22,2025-09-05,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,0,1126.03,1126.03,900.82,Paid
+BL100910,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Room Charges,Private Room Bed-Day,DEL-Saket,Delhi,North,Private Insurance,6,6265.94,,30076.51,Paid
+BL100216,VS50071,PT1232,Female,41,2025-03-05,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,524.72,1574.16,0.0,Paid
+BL100101,VS50033,PT1383,Female,50,2025-01-11,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,3,387.14,1161.42,0.0,Paid
+BL100389,VS50130,PT1100,Male,40,2025-06-05,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,4,596.06,2384.24,2145.82,Paid
+BL100614,VS50200,PT1302,Male,26,2025-02-20,Outpatient,Orthopedics,Dr. Reddy,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Government Scheme,1,5260.38,5260.38,4734.34,Paid
+BL100288,VS50097,PT1138,Female,43,2025-01-14,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,609.24,609.24,0.0,Paid
+BL100607,VS50197,PT1378,Male,46,2025-01-23,Outpatient,Dermatology,Dr. Patil,Scan,X-Ray,CHN-Adyar,Chennai,South,Self Pay,1,855.86,855.86,0.0,Paid
+BL100346,VS50114,PT1159,Male,15,2025-02-08,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Self Pay,5,1510.73,7553.65,0.0,Paid
+BL100419,VS50140,PT1308,Male,5,2025-06-17,Inpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,HYD-Central,Hyderabad,South,Self Pay,1,1471.84,1471.84,0.0,Paid
+BL100058,VS50019,PT1045,Female,11,2025-11-21,Inpatient,general medicine,Dr. Joshi,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Corporate,1,1235.19,1235.19,864.63,Paid
+BL100890,VS50297,PT1369,Male,21,2025-04-04,Outpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,CHN-Adyar,Chennai,South, self pay ,1,590.15,590.15,0.0,Pending
+BL100535,VS50177,PT1206,Male,17,2025-05-26,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,1390.61,1390.61,973.43,Paid
+BL100753,VS50249,PT1280,Male,6,2025-10-21,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1119.75,1119.75,0.0,Paid
+BL100524,VS50173,PT1268,Male,38,2025-12-02,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1389.39,1389.39,972.57,Pending
+BL100622,VS50203,PT1331,Male,65,2025-10-12,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,4,435.35,1741.4,1567.26,Paid
+BL100040,VS50014,PT1215,Male,69,2025-09-22,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1372.81,1372.81,1098.25,Paid
+BL100322,VS50108,PT1363,Female,8,2025-10-08,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,2,194.4,388.8,0.0,Paid
+BL100870,VS50291,PT1290,Male,13,2025-06-13,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,3,503.2,1509.6,1207.68,Paid
+BL100320,VS50107,PT1075,Female,2,2025-10-01,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,HYD-Central,Hyderabad,South,Private Insurance,1,1014.2,1014.2,811.36,Paid
+BL100708,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil, lab test ,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,337.92,337.92,270.34,Paid
+BL100519,VS50171,PT1217,Male,8,2025-12-18,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,DEL-Saket,Delhi,North,Corporate,1,824.83,824.83,577.38,Paid
+BL100696,VS50229,PT1174,Female,19,2025-06-18,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Government Scheme,4,247.57,990.28,891.25,Paid
+BL100971,VS50323,PT1267,Female,17,2025-11-21,Emergency,Neurology,Dr. Sen,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1482.42,1482.42,1334.18,Pending
+BL100550,VS50181,PT1155,Male,60,2025-12-22,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,3,4720.32,14160.96,0.0,Paid
+BL100110,VS50036,PT1000,Male,69,2025-11-04,Emergency,Orthopedics,Dr. Reddy,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,4,452.33,1809.32,0.0,Paid
+BL100500,VS50164,PT1021,Female,53,2025-07-07,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,DEL-Saket,Delhi,North,Private Insurance,5,5179.78,25898.9,20719.12,Paid
+BL100251,VS50082,PT1234,Male,13,2025-11-21,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,3,5265.35,15796.05,0.0,Paid
+BL100873,VS50292,PT1225,Male,14,2025-04-28,Emergency,Pediatrics,Dr. Pillai,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Private Insurance,-2,845.76,845.76,676.61,Paid
+BL100125,VS50042,PT1162,Female,5,2025-12-20,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,4,576.96,2307.84,1846.27,Paid
+BL100356,VS50118,PT1155,Female,78,2025-08-22,Outpatient,Orthopedics,Dr. Reddy,SCAN,Ultrasound,HYD-Central,Hyderabad,South,Government Scheme,1,1187.82,1187.82,1069.04,Paid
+BL100978,VS50325,PT1339,Male,53,2025-08-21,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay  ,2,538.33,1076.66,0.0,Paid
+BL100064,VS50021,PT1117,Female,26,2025-04-21,Outpatient,General Medicine,Dr. Nair,Scan,X-Ray,PUN-Kothrud,Pune,West,Self Pay,1,435.36,435.36,0.0,Paid
+BL100827,VS50276,PT1082,Female,57,2025-05-22,Outpatient,Dermatology,Dr. Patil,  Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Private Insurance,1,682.04,682.04,545.63,Paid
+BL100171,VS50056,PT1201,Female,34,2025-11-19,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Corporate,1,477.83,477.83,334.48,Paid
+BL100817,VS50273,PT1024,Male,67,2025-06-21,Inpatient,Dermatology,Dr. Patil,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Private Insurance,1,802.5,802.5,642.0,Paid
+BL100639,VS50209,PT1386,Male,34,2025-05-28,Inpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Self Pay,1,1076.35,1076.35,0.0,Paid
+BL100601,VS50196,PT1057,Female,22,2025-04-08,Inpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,763.99,763.99,0.0,Paid
+BL100471,VS50157,PT1057,Female,64,2025-09-14,Outpatient,Orthopedics,Dr. Khan,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,765.7,765.7,612.56,Paid
+BL100801,VS50267,PT1044,Female,41,2025-08-07,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,1,386.55,386.55,0.0,Pending
+BL100373,VS50125,PT1020,Male,56,2025-07-27,Emergency,Dermatology,Dr. Patil,Scan,MRI Scan,DEL-Saket,Delhi,North,Private Insurance,1,7332.55,7332.55,5866.04,Pending
+BL100414,VS50139,PT1218,Male,80,2025-03-11,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1417.5,1417.5,0.0,Pending
+BL100173,VS50057,PT1113,Male,5,2025-01-18,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,DEL-Saket,Delhi,North,Self Pay,1,959.26,959.26,0.0,Paid
+BL100439,VS50147,PT1131,Male,22,2025-05-22,Outpatient, cardiology ,Dr. Mehta,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,547.69,547.69,492.92,Paid
+BL100205,VS50068,PT1086,Female,57,2025-06-15,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,834.05,834.05,667.24,Paid
+BL100819,VS50274,PT1169,Male,5,2025-12-10,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,655.73,655.73,0.0,Paid
+BL100447,VS50149,PT1013,Female,10,2025-01-07,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Corporate,1,385.59,385.59,269.91,Paid
+BL100943,VS50315,PT1148,Female,1,2025-04-10,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Private Insurance,1,769.69,769.69,615.75,Paid
+BL100048,VS50016,PT1161,Male,31,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,863.7,863.7,0.0,Paid
+BL100568,VS50186,PT1070,Male,35,2025-09-05,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Corporate,1,876.38,876.38,613.47,Paid
+BL100133,VS50045,PT1125,Male,20,2025-04-06,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,564.8,564.8,451.84,Paid
+BL100297,VS50099,PT1146,Male,47,2025-09-27,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,3,4618.1,13854.3,0.0,Paid
+BL100251,VS50082,PT1234,Male,13,2025-11-21,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,3,5265.35,15796.05,0.0,Paid
+BL100364,VS50121,PT1322,Male,39,2025-07-12,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,5,549.81,2749.05,2199.24,Paid
+BL100952,VS50318,PT1050,Female,75,2025-07-11,Outpatient, cardiology ,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,909.37,909.37,727.5,Pending
+BL100277,VS50093,PT1131,Female,10,2025-02-16,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,2,324.17,,518.67,Paid
+BL100467,VS50155,PT1093,Female,18,2025-08-13,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,HYD-Central,Hyderabad,South,Government Scheme,4,6938.95,27755.8,24980.22,Paid
+BL100511,VS50168,PT1106,Female,60,2025-01-27,Emergency,  General Medicine,Dr. Nair,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,5,431.95,2159.75,0.0,Paid
+BL100018,VS50007,PT1189,Female,17,2025-10-01,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,898.07,898.07,0.0,Paid
+BL100899,VS50301,PT1316,Female,56,2025-02-07,Outpatient,Dermatology,Dr. Patil,Scan,X-Ray,BLR-Whitefield,Bengaluru,South,Self Pay,1,730.46,730.46,0.0,Paid
+BL100051,VS50017,PT1341,Male,21,2025-03-25,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Government Scheme,3,109.74,329.22,296.3,Paid
+BL100182,VS50060,PT1223,Female,11,2025-07-12,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,761.43,761.43,609.14,Paid
+BL100654,VS50215,PT1245,Male,30,2025-09-06,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,690.79,690.79,552.63,Paid
+BL100409,VS50137,PT1332,Male,25,2025-05-10,Emergency,Orthopedics,Dr. Khan,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Government Scheme,5,554.63,2773.15,2495.84,Paid
+BL100495,VS50163,PT1302,Male,40,2025-01-30,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,2,311.57,623.14,498.51,Paid
+BL100842,VS50282,PT1328,Male,21,2025-03-20,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,831.5,831.5,0.0,Pending
+BL100921,VS50308,PT1328,Male,13,2025-11-23,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,614.94,614.94,491.95,Paid
+BL100900,VS50301,PT1316,Female,56,2025-02-07,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,1071.68,1071.68,0.0,Pending
+BL100025,VS50010,PT1046,Female,9,2025-11-26,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,-1032.59,1032.59,0.0,Paid
+BL100562,VS50185,PT1341,Female,2,2025-05-10,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Corporate,1,861.82,861.82,603.27,Paid
+BL100117,VS50039,PT1094,Female,8,2025-01-31,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,5,473.15,2365.75,0.0,Paid
+BL100894,VS50299,PT1101,Male,27,2025-01-26,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,-1,1333.52,1333.52,1200.17,Paid
+BL100557,VS50183,PT1171,Male,11,2025-03-16,Inpatient,General Medicine,Dr. Nair,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Self Pay,1,14386.0,14386.0,0.0,Pending
+BL100612,VS50199,PT1237,Male,4,2025-02-14,Outpatient,Pediatrics,Dr. Pillai,Scan,MRI Scan,HYD-Central,Hyderabad,South,Self Pay,1,7960.2,7960.2,0.0,Pending
+BL100217,VS50071,PT1232,Female,41,2025-03-05,Emergency,Dermatology,Dr. Patil,Lab Test,Blood Test,DEL-Saket,Delhi,North,Self Pay,1,672.94,672.94,0.0,Paid
+BL100797,VS50265,PT1104,Female,2,2025-06-12,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,CHENNAI,South,Government Scheme,3,194.17,582.51,524.26,Paid
+BL100034,VS50012,PT1244,Male,56,2025-04-13,Inpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,402.0,402.0,361.8,Paid
+BL100049,VS50016,PT1161,Male,31,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,2,226.55,453.1,0.0,Paid
+BL100630,VS50206,PT1092,Female,57,2025-01-29,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,1287.69,1287.69,1158.92,Pending
+BL100441,VS50147,PT1131,Male,22,2025-05-22,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Government Scheme,2,-466.94,933.88,840.49,Pending
+BL100721,VS50237,PT1294,Female,2,2025-04-29,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,3,574.8,1724.4,1551.96,Paid
+BL100599,VS50195,PT1258,Female,7,2025-01-15,Inpatient,Pediatrics,Dr. Pillai,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Government Scheme,6,4401.23,26407.38,23766.64,Paid
+BL100144,VS50048,PT1273,Male,84,2025-11-24,Outpatient,Cardiology,Dr. Mehta,Scan,MRI Scan,DEL-Saket,Delhi,North,Private Insurance,1,6380.3,6380.3,5104.24,Paid
+BL100626,VS50205,PT1390,Female,19,2025-06-08,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,5,206.94,1034.7,0.0,Paid
+BL100973,VS50324,PT1124,Male,16,2025-03-19,Inpatient,Orthopedics,Dr. Khan,SCAN,MRI Scan,PUN-Kothrud,Pune,West,Government Scheme,1,8640.14,8640.14,7776.13,Paid
+BL100093,VS50030,PT1199,Male,47,2025-07-21,Inpatient,Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Self Pay,5,2413.42,12067.1,0.0,Pending
+BL100194,VS50065,PT1316,Male,53,2025-05-28,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,846.78,846.78,677.42,Paid
+BL100860,VS50288,PT1328,Female,18,2025-09-30,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,661.4,,529.12,Paid
+BL100166,VS50054,PT1056,Male,17,2025-12-21,Inpatient,Orthopedics,Dr. Khan,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Corporate,6,1762.87,10577.22,7404.05,Paid
+BL100975,VS50324,PT1124,Male,16,2025-03-19,Inpatient,Orthopedics,Dr. Khan,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Government Scheme,3,4485.59,13456.77,12111.09,Paid
+BL100161,VS50053,PT1258,Male,6,2025-08-15,Outpatient,Neurology,Dr. Sen,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Self Pay,1,751.24,751.24,0.0,Pending
+BL100054,VS50018,PT1053,Male,34,2025-04-28,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Corporate,1,743.57,743.57,520.5,Paid
+BL100086,VS50029,PT1348,Female,52,2025-09-09,Emergency,General Medicine,Dr. Nair,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,843.96,843.96,0.0,Paid
+BL100967,VS50322,PT1194,Male,39,2025-03-21,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,4,510.23,2040.92,0.0,Pending
+BL100111,VS50037,PT1217,Female,30,2025-12-08,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,862.32,862.32,0.0,Paid
+BL100756,VS50250,PT1281,Female,11,2025-03-22,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,635.98,635.98,572.38,Pending
+BL100782,VS50259,PT1252,Female,28,2025-01-19,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,5,446.33,2231.65,0.0,Paid
+BL100430,VS50144,PT1394,Male,14,2025-10-15,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,862.91,862.91,0.0,Paid
+BL100059,VS50019,PT1045,Female,11,2025-11-21,Inpatient,General Medicine,Dr. Joshi,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Corporate,2,2469.21,4938.42,3456.89,Paid
+BL100503,VS50165,PT1236,Female,54,2025-08-25,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,5,120.29,601.45,481.16,Paid
+BL100912,VS50305,PT1078,Female,50,2025-04-14,Outpatient,Cardiology,Dr. Mehta,Scan,X-Ray,CHN-Adyar,Chennai,South,Government Scheme,1,461.4,461.4,415.26,Paid
+BL100472,VS50158,PT1260,Male,53,2025-04-11,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Corporate,1,1188.14,1188.14,831.7,Paid
+BL100080,VS50027,PT1155,Male,2,2025-12-21,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Private Insurance,1,705.42,705.42,564.34,Paid
+BL100841,VS50281,PT1368,Male,63,2025-02-25,Emergency,Neurology,Dr. Sen,Scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,1070.48,1070.48,0.0,Paid
+BL100489,VS50162,PT1052,Female,46,2025-07-12,Inpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1045.34,1045.34,836.27,Paid
+BL100199,VS50066,PT1355,Male,64,2025-09-09,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,4,182.9,731.6,585.28,Pending
+BL100118,VS50039,PT1094,Female,8,2025-01-31,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Self Pay,1,1003.48,1003.48,0.0,Pending
+BL100036,VS50012,PT1244,Male,56,2025-04-13,Inpatient,DERMATOLOGY,Dr. Patil,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Government Scheme,1,18396.75,18396.75,16557.08,Paid
+BL100932,VS50311,PT1072,Female,72,2025-07-19,Inpatient,General Medicine,Dr. Nair,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,Self Pay,1,1488.72,1488.72,0.0,Pending
+BL100163,VS50054,PT1056,Male,17,2025-12-21,Inpatient,ORTHOPEDICS,Dr. Khan,Scan,MRI Scan,HYD-Central,Hyderabad,South,Corporate,1,5214.45,5214.45,3650.11,Pending
+BL100570,VS50187,PT1043,Female,64,2025-11-29,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Corporate,5,273.62,1368.1,957.67,Paid
+BL100751,VS50248,PT1303,Male,65,2025-08-30,Outpatient,,Dr. Nair,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,851.78,851.78,681.42,Paid
+BL100159,VS50052,PT1127,Female,50,2025-10-26,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,2,505.26,1010.52,808.42,Paid
+BL100902,VS50302,PT1004,Male,5,2025-08-09,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,4,456.35,1825.4,1460.32,Paid
+BL100761,VS50252,PT1353,Female,3,2025-03-24,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,559.48,559.48,503.53,Pending
+BL100403,VS50136,PT1292,Female,48,2025-10-17,Inpatient,Cardiology,Dr. Mehta, consultation ,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1365.26,1365.26,1092.21,Paid
+BL100368,VS50123,PT1388,Female,25,2025-09-14,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Corporate,1,587.94,587.94,411.56,Paid
+BL100499,VS50164,PT1021,Female,53,2025-07-07,Inpatient,neurology,Dr. Sen,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Private Insurance,1,13600.66,13600.66,10880.53,Paid
+BL100560,VS50184,PT1310,Male,21,2025-09-17,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,4,382.63,1530.52,1224.42,Paid
+BL100871,VS50292,PT1225,Male,14,2025-04-28,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,703.04,703.04,562.43,Pending
+BL100781,VS50259,PT1252,Female,28,2025-01-19,Outpatient,Dermatology,Dr. Patil,  Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,777.9,777.9,0.0,Paid
+BL100521,VS50172,PT1280,Male,20,2025-06-16,Inpatient,Dermatology,Dr. Patil,Scan,MRI Scan,CHN-Adyar,Chennai,South,Corporate,1,5505.14,5505.14,3853.6,Paid
+BL100792,VS50263,PT1030,Female,30,2025-12-16,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,839.33,839.33,755.4,Paid
+BL100299,VS50100,PT1375,Female,8,2025-12-21,Inpatient,Orthopedics,Dr. Reddy,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Self Pay,1,5099.77,5099.77,0.0,Paid
+BL100263,VS50087,PT1077,Female,75,2025-01-08,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,784.49,784.49,627.59,Paid
+BL100520,VS50172,PT1280,Male,20,2025-06-16,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,827.62,827.62,579.33,Paid
+BL100670,VS50221,PT1232,Female,72,2025-11-07,Outpatient,Cardiology,Dr. Rao,  Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,1062.1,1062.1,955.89,Paid
+BL100330,VS50110,PT1345,Male,79,2025-03-13,Inpatient,Orthopedics,Dr. Reddy,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Private Insurance,1,598.73,598.73,478.98,Pending
+BL100123,VS50041,PT1015,Female,4,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Self Pay,1,1340.79,1340.79,0.0,Paid
+BL100828,VS50277,PT1343,Male,1,2025-02-17,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,584.21,584.21,525.79,Paid
+BL100326,VS50109,PT1178,Female,85,2025-11-07,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1334.33,1334.33,1067.46,Paid
+BL100770,VS50256,PT1307,Female,85,2025-01-12,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1414.84,,1131.87,Paid
+BL100466,VS50155,PT1093,Female,18,2025-08-13,Inpatient,Dermatology,Dr. Patil,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Government Scheme,-1,863.16,863.16,776.84,Paid
+BL100695,VS50229,PT1174,Female,19,2025-06-18,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,-2,1251.27,1251.27,1126.14,Pending
+BL100150,VS50050,PT1034,Male,50,2025-03-29,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1337.29,1337.29,0.0,Paid
+BL100055,VS50018,PT1053,Male,34,2025-04-28,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Corporate,3,144.73,434.19,303.93,Paid
+BL100637,VS50209,PT1386,Male,34,2025-05-28,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1110.6,1110.6,0.0,Paid
+BL100313,VS50105,PT1166,Male,11,2025-01-28,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,494.61,494.61,445.15,Paid
+BL100675,VS50222,PT1231,Female,33,2025-10-27,Inpatient,Orthopedics,Dr. Khan,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Self Pay,-1,24446.98,24446.98,0.0,Pending
+BL100261,VS50086,PT1059,Female,83,2025-03-16,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,3,492.31,1476.93,1181.54,Paid
+BL100816,VS50273,PT1024,Male,67,2025-06-21,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,3,430.61,1291.83,1033.46,Paid
+BL100371,VS50124,PT1347,Female,53,2025-07-07,Outpatient, dermatology ,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,1,190.83,190.83,0.0,Paid
+BL100372,VS50125,PT1020,Male,56,2025-07-27,Emergency,Dermatology,Dr. Patil,  Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,880.74,880.74,704.59,Paid
+BL100370,VS50124,PT1347,Female,53,2025-07-07,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,748.42,748.42,0.0,Pending
+BL100726,VS50238,PT1223,Female,18,2025-07-14,Inpatient,Neurology,Dr. Sen,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,3,539.42,1618.26,1294.61,Paid
+BL100812,VS50271,PT1019,Male,26,2025-05-03,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Corporate,1,7419.73,7419.73,5193.81,Paid
+BL100056,VS50019,PT1045,Female,11,2025-11-21,Inpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,1362.77,1362.77,953.94,Paid
+BL100004,VS50002,PT1295,Female,7,2025-02-01,Inpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,642.55,642.55,514.04,Paid
+BL100649,VS50213,PT1070,Female,33,2025-04-01,Emergency,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South, private insurance ,1,1372.41,1372.41,1097.93,Pending
+BL100549,VS50181,PT1155,Male,60,2025-12-22,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Self Pay,1,9156.54,9156.54,0.0,Paid
+BL100246,VS50081,PT1207,Male,52,2025-10-11,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,773.42,773.42,0.0,Pending
+BL100479,VS50159,PT1077,Female,50,2025-07-16,Inpatient, general medicine ,Dr. Nair,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,Private Insurance,5,5646.84,28234.2,22587.36,Paid
+BL100633,VS50207,PT1211,Male,6,2025-01-07,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,1420.9,1420.9,1278.81,Paid
+BL100897,VS50300,PT1004,Male,43,2025-04-25,Outpatient,Neurology,Dr. Sen,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,575.36,575.36,460.29,Paid
+BL100587,VS50192,PT1067,Male,29,2025-12-14,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance  ,3,165.64,496.92,397.54,Paid
+BL100691,VS50227,PT1393,Male,6,2025-10-31,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Self Pay,3,1503.94,4511.82,0.0,Paid
+BL100294,VS50099,PT1146,Male,47,2025-09-27,Inpatient,Neurology,Dr. Sen,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,612.99,612.99,0.0,Paid
+BL100104,VS50034,PT1065,Male,55,2025-01-12,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Corporate,4,224.23,896.92,627.84,Paid
+BL100758,VS50251,PT1281,Female,82,2025-06-29,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,887.12,887.12,798.41,Paid
+BL100987,VS50328,PT1088,Female,11,2025-03-13,Emergency,Pediatrics,Dr. Pillai,Scan,MRI Scan,PUN-Kothrud,Pune,West,Corporate,1,6183.99,6183.99,4328.79,Pending
+BL100084,VS50028,PT1008,Female,8,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Corporate,1,1466.92,1466.92,1026.84,Paid
+BL100426,VS50142,PT1159,Male,76,2025-04-21,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1319.18,1319.18,0.0,Paid
+BL100914,VS50306,PT1055,Female,39,2025-02-22,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,626.64,626.64,563.98,Paid
+BL100065,VS50022,PT1259,Female,77,2025-07-15,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,545.24,545.24,436.19,Paid
+BL100255,VS50084,PT1342,Male,12,2025-12-17,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,972.33,972.33,0.0,Paid
+BL100468,VS50156,PT1118,Female,14,2025-11-01,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,564.56,564.56,0.0,Paid
+BL100665,VS50218,PT1234,Male,58,2025-11-03,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,DEL-Saket,Delhi  ,North,Self Pay,1,482.67,482.67,0.0,Paid
+BL100437,VS50146,PT1129,Female,10,2025-06-07,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1084.92,1084.92,0.0,Paid
+BL100815,VS50273,PT1024,Male,67,2025-06-21,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,668.09,668.09,534.47,Paid
+BL100642,VS50210,PT1038,Male,72,2025-07-05,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1148.4,1148.4,0.0,Paid
+BL100762,VS50252,PT1353,Female,3,2025-03-24,Outpatient,Neurology,Dr. Sen,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Government Scheme,1,486.67,486.67,438.0,Paid
+BL100907,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,4,291.55,1166.2,932.96,Paid
+BL100990,VS50330,PT1265,Male,75,2025-06-07,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1132.75,1132.75,0.0,Paid
+BL100041,VS50014,PT1215,Male,69,2025-09-22,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,2,186.17,372.34,297.87,Paid
+BL100525,VS50173,PT1268,Male,38,2025-12-02,Outpatient,Neurology,Dr. Sen,Scan,X-Ray,DEL-Saket,Delhi,North,Corporate,1,642.37,642.37,449.66,Pending
+BL100730,VS50239,PT1060,Female,4,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Self Pay,1,419.06,419.06,0.0,Paid
+BL100417,VS50139,PT1218,Male,80,2025-03-11,Inpatient,Orthopedics,Dr. Reddy,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,Self Pay,6,6211.75,37270.5,0.0,Pending
+BL100253,VS50083,PT1060,Female,74,2025-01-21,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Private Insurance,1,2175.02,2175.02,1740.02,Paid
+BL100183,VS50060,PT1223,Female,11,2025-07-12,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,501.31,501.31,401.05,Paid
+BL100052,VS50017,PT1341,Male,21,2025-03-25,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Government Scheme,1,7664.18,7664.18,6897.76,Paid
+BL100456,VS50152,PT1124,Female,64,2025-12-30,Inpatient,Orthopedics,Dr. Khan,procedure,Minor Surgery,PUN-Kothrud,Pune,West,Self Pay,1,9112.46,9112.46,0.0,Paid
+BL100393,VS50132,PT1151,Female,24,2025-03-16,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1242.32,1242.32,1118.09,Paid
+BL100777,VS50257,PT1291,Female,85,2025-04-07,Inpatient,,Dr. Mehta,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Private Insurance,4,6575.37,26301.48,21041.18,Pending
+BL100523,VS50172,PT1280,Male,20,2025-06-16,Inpatient,Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Corporate,5,1833.18,9165.9,6416.13,Paid
+BL100407,VS50136,PT1292,Female,48,2025-10-17,Inpatient,Cardiology,Dr. Mehta,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,5,4783.24,23916.2,19132.96,Paid
+BL100131,VS50044,PT1282,Female,21,2025-09-04,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Private Insurance,1,20715.61,20715.61,16572.49,Pending
+BL100906,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,617.79,617.79,494.23,Paid
+BL100760,VS50251,PT1281,Female,82,2025-06-29,Outpatient,Neurology,Dr. Sen,Scan,X-Ray,PUN-Kothrud,Pune,West,Government Scheme,1,581.43,581.43,523.29,Pending
+BL100627,VS50205,PT1390,Female,19,2025-06-08,Inpatient,Cardiology,Dr. Rao,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,8657.07,8657.07,0.0,Paid
+BL100259,VS50085,PT1321,Female,59,2025-05-31,Emergency,Neurology,Dr. Sen,Pharmacy,Medicines,DEL-Saket,Delhi,North,Government Scheme,4,404.47,1617.88,1456.09,Paid
+BL100213,VS50070,PT1237,Male,19,2025-06-01,Outpatient,general medicine,Dr. Joshi,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Corporate,5,393.71,1968.55,1377.98,Paid
+BL100039,VS50013,PT1222,Male,28,2025-03-13,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,PUN-Kothrud,Pune,West,Private Insurance,1,1323.79,1323.79,1059.03,Paid
+BL100444,VS50148,PT1002,Male,35,2025-03-11,Inpatient,Cardiology,Dr. Rao,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,Self Pay,1,922.15,922.15,0.0,Pending
+BL100590,VS50193,PT1309,Female,10,2025-11-05,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Self Pay  ,1,10071.25,10071.25,0.0,Pending
+BL100853,VS50285,PT1334,Female,32,2025-05-04,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Corporate,1,1092.2,1092.2,764.54,Paid
+BL100142,VS50047,PT1179,Male,5,2025-11-14,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Private Insurance,2,2295.28,4590.56,3672.45,Paid
+BL100486,VS50161,PT1369,Female,9,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Corporate,1,924.4,924.4,647.08,Pending
+BL100923,VS50308,PT1328,Male,13,2025-11-23,Outpatient,General Medicine,Dr. Nair,  Lab Test,Blood Test,CHN-Adyar,Chennai,South,Private Insurance,1,547.34,547.34,437.87,Pending
+BL100281,VS50095,PT1053,Female,42,2025-12-01,Inpatient,Orthopedics,Dr. Reddy,SCAN,MRI Scan,PUN-Kothrud,Pune,West,Private Insurance,1,5573.06,5573.06,4458.45,Paid
+BL100381,VS50128,PT1344,Male,63,2025-08-08,Inpatient,GENERAL MEDICINE,Dr. Joshi,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Private Insurance,3,2136.51,6409.53,5127.62,Paid
+BL100776,VS50257,PT1291,Female,85,2025-04-07,Inpatient,Cardiology,Dr. Mehta,Procedure,Physiotherapy Session,MUM-Andheri,Mumbai,West,Private Insurance,1,1360.74,1360.74,1088.59,Paid
+BL100092,VS50030,PT1199,Male,47,2025-07-21,Inpatient,Dermatology,Dr. Patil,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Self Pay,1,1349.6,1349.6,0.0,Paid
+BL100709,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil,Scan,X-Ray,PUN-Kothrud,Pune,West,Private Insurance,1,549.99,549.99,439.99,Paid
+BL100249,VS50082,PT1234,Male,13,2025-11-21,Inpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,521.32,521.32,0.0,Pending
+BL100114,VS50038,PT1055,Female,79,2025-06-01,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,917.03,917.03,0.0,Paid
+BL100120,VS50040,PT1215,Male,72,2025-06-29,Outpatient,Cardiology,Dr. Rao,Scan,MRI Scan,HYD-Central,Hyderabad,South,Self Pay,1,4894.92,,0.0,Paid
+BL100738,VS50242,PT1080,Female,82,2025-08-10,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Self Pay,1,1851.87,1851.87,0.0,Paid
+BL100265,VS50088,PT1075,Female,71,2025-10-20,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1297.39,1297.39,1167.65,Paid
+BL100283,VS50095,PT1053,Female,42,2025-12-01,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Private Insurance,1,10668.25,10668.25,8534.6,Pending
+BL100933,VS50311,PT1072,Female,72,2025-07-19,Inpatient,General Medicine,Dr. Nair,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Self Pay,6,2169.47,13016.82,0.0,Paid
+BL100862,VS50288,PT1328,Female,18,2025-09-30,Emergency,Neurology,Dr. Sen,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Private Insurance,1,698.87,698.87,559.1,Paid
+BL100385,VS50129,PT1263,Female,18,2025-01-04,Inpatient,General Medicine,Dr. Nair,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Private Insurance,1,18177.62,18177.62,14542.1,Paid
+BL100291,VS50098,PT1061,Female,26,2025-05-27,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,PUN-Kothrud,Pune,West,Private Insurance,-1,6370.36,6370.36,5096.29,Paid
+BL100563,VS50185,PT1341,Female,2,2025-05-10,Inpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Corporate,1,1792.21,1792.21,1254.55,Pending
+BL100830,VS50278,PT1272,Male,5,2025-10-17,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,626.37,626.37,563.73,Paid
+BL100383,VS50129,PT1263,Female,18,2025-01-04,Inpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,3,414.7,,995.28,Paid
+BL100737,VS50242,PT1080,Female,82,2025-08-10,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,  Self Pay,1,827.26,827.26,0.0,Pending
+BL100069,VS50024,PT1201,Male,39,2025-01-22,Outpatient,  Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1085.58,1085.58,0.0,Paid
+BL100977,VS50325,PT1339,Male,53,2025-08-21,Inpatient,Cardiology,Dr. Mehta,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,928.54,928.54,0.0,Paid
+BL100896,VS50300,PT1004,Male,43,2025-04-25,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1280.33,1280.33,1024.26,Pending
+BL100343,VS50114,PT1159,Male,15,2025-02-08,Inpatient,Orthopedics,Dr. Reddy,Pharmacy  ,Medicines,CHN-Adyar,Chennai,South,Self Pay,5,546.57,2732.85,0.0,Paid
+BL100242,VS50080,PT1398,Male,37,2025-08-31,Inpatient,Neurology,Dr. Sen,  Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,5,592.14,2960.7,0.0,Pending
+BL100042,VS50014,PT1215,Male,69,2025-09-22,Inpatient,Cardiology,Dr. Mehta,Procedure,Minor Surgery,MUM-Andheri,Mumbai,West,Private Insurance,1,17460.09,17460.09,13968.07,Paid
+BL100558,VS50183,PT1171,Male,11,2025-03-16,Inpatient,General Medicine,Dr. Nair,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Self Pay,4,4997.98,19991.92,0.0,Paid
+BL100134,VS50045,PT1125,Male,20,2025-04-06,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,5,363.15,1815.75,1452.6,Paid
+BL100789,VS50262,PT1128,Female,8,2025-04-25,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,MUM-Andheri,mumbai,West,Government Scheme,1,819.77,819.77,737.79,Pending
+BL100339,VS50113,PT1117,Male,53,2025-09-26,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,0,1379.84,1379.84,1103.87,Pending
+BL100410,VS50137,PT1332,Male,25,2025-05-10,Emergency,Orthopedics,Dr. Khan,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Government Scheme,1,7557.72,7557.72,6801.95,Pending
+BL100231,VS50076,PT1324,Male,85,2025-06-26,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1155.96,1155.96,924.77,Paid
+BL100378,VS50128,PT1344,Male,63,2025-08-08,Inpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,674.53,674.53,539.62,Paid
+BL100775,VS50257,PT1291,Female,85,2025-04-07,Inpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,5,444.0,2220.0,1776.0,Paid
+BL100136,VS50046,PT1150,Male,16,2025-01-21,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,1430.17,1430.17,1001.12,Paid
+BL100759,VS50251,PT1281,Female,82,2025-06-29,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Government Scheme,1,510.05,510.05,459.05,Pending
+BL100741,VS50244,PT1286,Male,19,2025-03-21,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,private insurance,1,1303.41,1303.41,1042.73,Paid
+BL100678,VS50223,PT1361,Male,58,2025-12-01,Outpatient,Cardiology,Dr. Mehta,Scan,X-Ray,CHN-Adyar,Chennai,South,Government Scheme,1,618.0,618.0,556.2,Paid
+BL100988,VS50329,PT1349,Male,12,2025-12-24,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,702.79,702.79,562.23,Paid
+BL100928,VS50310,PT1338,Male,24,2025-06-03,Outpatient,General Medicine,Dr. Joshi,Scan,Ultrasound,DEL-Saket,Delhi,North,Private Insurance  ,1,1805.04,1805.04,1444.03,Paid
+BL100680,VS50224,PT1121,Female,47,2025-11-26,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,DEL-Saket,Delhi,North,Corporate,1,322.45,322.45,225.71,Paid
+BL100361,VS50120,PT1079,Male,17,2025-06-24,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,1044.87,1044.87,835.9,Paid
+BL100961,VS50321,PT1121,Female,29,2025-05-15,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,747.2,747.2,0.0,Paid
+BL100289,VS50097,PT1138,Female,43,2025-01-14,Emergency,Neurology,Dr. Sen,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Self Pay,1,5013.76,5013.76,0.0,Pending
+BL100736,VS50241,PT1236,Female,4,2025-01-18,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,DEL-Saket,Delhi,North,Corporate,1,1925.53,1925.53,1347.87,Paid
+BL100089,VS50030,PT1199,Male,47,2025-07-21,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,601.71,601.71,0.0,Pending
+BL100728,VS50238,PT1223,Female,18,2025-07-14,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,4,5410.66,21642.64,17314.11,Paid
+BL100470,VS50157,PT1057,Female,64,2025-09-14,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1353.18,1353.18,1082.54,Pending
+BL100137,VS50046,PT1150,Male,16,2025-01-21,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Corporate,1,569.47,569.47,398.63,Paid
+BL100832,VS50279,PT1340,Male,1,2025-08-09,Outpatient,Pediatrics,Dr. Pillai,Consultation  ,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,1281.03,1281.03,0.0,Paid
+BL100796,VS50265,PT1104,Female,2,2025-06-12,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,CHN-Adyar,Chennai,South,Government Scheme,1,671.62,671.62,604.46,Pending
+BL100619,VS50202,PT1134,Male,20,2025-07-31,Outpatient,Orthopedics,Dr. Khan,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,412.16,412.16,329.73,Pending
+BL100284,VS50095,PT1053,Female,42,2025-12-01,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,6,2366.75,14200.5,11360.4,Pending
+BL100794,VS50264,PT1168,Male,6,2025-10-29,Emergency,Pediatrics,Dr. Pillai,Scan,X-Ray,HYD-Central,Hyderabad,South,Private Insurance,1,649.34,649.34,519.47,Paid
+BL100490,VS50162,PT1052,Female,46,2025-07-12,Inpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,  Private Insurance,1,755.28,755.28,604.22,Paid
+BL100357,VS50118,,Female,78,2025-08-22,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Government Scheme,1,513.46,513.46,462.11,Pending
+BL100662,VS50217,PT1005,Male,83,2025-09-18,Outpatient,Cardiology,Dr. Mehta,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,3,172.52,517.56,0.0,Pending
+BL100450,VS50150,PT1169,Male,80,2025-10-22,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Corporate,5,239.13,1195.65,836.96,Paid
+BL100663,VS50217,PT1005,Male,83,2025-09-18,Outpatient,Cardiology,Dr. Mehta,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Self Pay,1,944.22,944.22,0.0,Pending
+BL100970,VS50323,PT1267,Female,17,2025-11-21,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1184.37,,1065.93,Pending
+BL100077,VS50026,PT1129,Male,14,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Private Insurance,1,1007.32,1007.32,805.86,Paid
+BL100688,VS50227,PT1393,Male,6,2025-10-31,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,2,548.54,1097.08,0.0,Paid
+BL100591,VS50193,PT1309,Female,10,2025-11-05,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Self Pay,2,1957.74,3915.48,0.0,Paid
+BL100896,VS50300,PT1004,Male,43,2025-04-25,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1280.33,1280.33,1024.26,Pending
+BL100306,VS50102,PT1052,Female,33,2025-03-27,Outpatient,  Orthopedics,Dr. Khan,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Private Insurance,1,510.61,510.61,408.49,Paid
+BL100316,VS50105,PT1166,Male,11,2025-01-28,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,MUM-Andheri,Mumbai,West,Government Scheme,2,1534.37,3068.74,2761.87,Paid
+BL100546,VS50180,PT1104,Male,29,2025-03-13,Inpatient, orthopedics ,Dr. Khan,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Government Scheme,6,4486.68,26920.08,24228.07,Pending
+BL100168,VS50055,PT1142,Female,49,2025-11-22,Outpatient,Cardiology,Dr. Rao,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Private Insurance,1,8847.7,8847.7,7078.16,Paid
+BL100482,VS50160,PT1261,Female,76,2025-08-29,Emergency,Cardiology,Dr. Mehta,Scan,MRI Scan,DEL-Saket,Delhi,North,Private Insurance,1,4823.98,4823.98,3859.18,Paid
+BL100027,VS50010,PT1046,Female,9,2025-11-26,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,PUN-Kothrud,Pune,West,Self Pay,1,803.04,803.04,0.0,Pending
+BL100814,VS50272,PT1156,Female,6,2025-03-30,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,-2,594.92,594.92,475.94,Paid
+BL100939,VS50314,PT1010,Female,9,2025-10-30,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1395.06,1395.06,1255.55,Paid
+BL100510,VS50168,PT1106,Female,60,2025-01-27,Emergency,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai  ,South,Self Pay,1,1430.46,1430.46,0.0,Paid
+BL100458,VS50153,PT1363,Female,31,2025-05-15,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,826.05,826.05,0.0,Paid
+BL100045,VS50015,PT1389,Male,57,2025-01-15,Outpatient,CARDIOLOGY,Dr. Rao,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,5,570.75,2853.75,2283.0,Paid
+BL100508,VS50167,PT1003,Male,69,2025-09-23,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,5,297.39,1486.95,0.0,Pending
+BL100752,VS50248,PT1303,Male,65,2025-08-30,Outpatient,General Medicine,Dr. Nair,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Private Insurance,1,542.04,542.04,433.63,Paid
+BL100982,VS50326,PT1060,Female,9,2025-02-15,Emergency,Dermatology,Dr. Patil,Scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,1811.19,1811.19,0.0,Paid
+BL100743,VS50245,PT1367,Male,31,2025-06-24,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1102.92,1102.92,992.63,Pending
+BL100275,VS50092,PT1102,Male,7,2025-06-23,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Government Scheme,1,792.1,792.1,712.89,Pending
+BL100423,VS50141,PT1353,Female,57,2025-10-03,Inpatient,General Medicine,Dr. Joshi,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Government Scheme,1,1023.84,1023.84,921.46,Pending
+BL100438,VS50146,PT1129,Female,10,2025-06-07,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,4,278.49,1113.96,0.0,Paid
+BL100502,VS50165,PT1236,Female,54,2025-08-25,Emergency,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad  ,South,Private Insurance,1,702.23,702.23,561.78,Paid
+BL100956,VS50319,PT1392,Female,6,2025-08-29,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,3,388.48,1165.44,932.35,Paid
+BL100848,VS50284,PT1119,Female,76,2025-05-04,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,1016.03,1016.03,914.43,Pending
+BL100397,VS50134,PT1045,Male,57,2025-07-25,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,502.8,502.8,402.24,Pending
+BL100442,VS50148,PT1002,Male,35,2025-03-11,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West, self pay ,1,1422.89,1422.89,0.0,Paid
+BL100237,VS50079,PT1346,Male,24,2025-08-03,Outpatient,Dermatology,Dr. Patil, consultation ,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1109.68,1109.68,0.0,Paid
+BL100451,VS50150,PT1169,Male,80,2025-10-22,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,DEL-Saket,Delhi,North,Corporate,1,5093.39,5093.39,3565.37,Paid
+BL100408,VS50137,PT1332,Male,25,2025-05-10,Emergency,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,,1,1054.02,1054.02,948.62,Paid
+BL100583,VS50190,PT1084,Male,12,2025-06-07,Outpatient,Pediatrics,Dr. Pillai,Scan,MRI Scan,DEL-Saket,Delhi,North,Self Pay,1,6299.9,6299.9,0.0,Paid
+BL100169,VS50056,PT1201,Female,34,2025-11-19,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,830.83,830.83,581.58,Paid
+BL100222,VS50073,PT1373,Female,82,2025-03-04,Emergency,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,881.84,881.84,793.66,Paid
+BL100210,VS50069,PT1132,Male,3,2025-04-07,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Self Pay,1,9857.74,9857.74,0.0,Pending
+BL100920,VS50307,PT1148,Female,57,2025-03-12,Inpatient,Cardiology,Dr. Rao,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,5,4868.21,24341.05,19472.84,Paid
+BL100046,VS50015,PT1389,Male,57,2025-01-15,Outpatient,Cardiology,Dr. Rao,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Private Insurance,1,1053.67,1053.67,842.94,Pending
+BL100981,VS50326,PT1060,Female,9,2025-02-15,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,758.63,758.63,0.0,Paid
+BL100641,VS50209,PT1386,Male,34,2025-05-28,Inpatient,  Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Self Pay,2,2097.86,4195.72,0.0,Paid
+BL100746,VS50246,PT1044,Male,72,2025-08-15,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,671.6,671.6,470.12,Paid
+BL100574,VS50188,PT1101,Female,57,2025-09-01,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,893.97,893.97,0.0,Paid
+BL100434,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Lab Test,Blood Test,DEL-Saket,Delhi,North,Self Pay,1,897.98,897.98,0.0,Paid
+BL100908,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,590.04,590.04,472.03,Paid
+BL100849,VS50284,PT1119,Female,76,2025-05-04,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,DEL-Saket,Delhi,North,Government Scheme,1,606.02,606.02,545.42,Paid
+BL100384,VS50129,PT1263,Female,18,2025-01-04,Inpatient,General Medicine,Dr. Nair,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Private Insurance,1,7922.33,7922.33,6337.86,Paid
+BL100880,VS50294,PT1023,Male,13,2025-07-22,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Private Insurance,1,4619.57,4619.57,3695.66,Paid
+BL100618,VS50202,PT1134,Male,20,2025-07-31,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1259.51,1259.51,1007.61,Pending
+BL100909,VS50304,PT1012,Female,23,2025-06-03,Inpatient,Cardiology,Dr. Rao,Procedure,Physiotherapy Session,DEL-Saket,Delhi,North,Private Insurance,1,1252.38,1252.38,1001.9,Pending
+BL100604,VS50196,PT1057,Female,22,2025-04-08,Inpatient,Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,BLR-Whitefield,Bengaluru,South, self pay ,6,1763.79,10582.74,0.0,Paid
+BL100247,VS50081,PT1207,Male,52,2025-10-11,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,5,173.53,867.65,0.0,Paid
+BL100379,VS50128,PT1344,Male,63,2025-08-08,Inpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,626.36,626.36,501.09,Paid
+BL100108,VS50036,PT1000,Male,69,2025-11-04,Emergency,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1144.58,1144.58,0.0,Pending
+BL100693,VS50228,PT1045,Male,20,2025-02-12,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,HYD-Central,Hyderabad,South,Self Pay,1,8436.42,8436.42,0.0,Paid
+BL100580,VS50189,PT1367,Female,68,2025-07-05,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,3,401.07,1203.21,0.0,Paid
+BL100589,VS50193,PT1309,Female,10,2025-11-05,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,DEL-Saket,Delhi,North,Self Pay,1,515.83,515.83,0.0,Paid
+BL100097,VS50032,PT1038,Male,65,2025-03-24,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1406.26,1406.26,0.0,Pending
+BL100950,VS50317,PT1300,Female,31,2025-01-26,Outpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Government Scheme,1,912.13,912.13,820.92,Paid
+BL100878,VS50293,PT1153,Male,27,2025-05-23,Inpatient,Cardiology,Dr. Rao,Room Charges,Private Room Bed-Day,DEL-Saket,Delhi,North,Self Pay,5,6488.56,32442.8,0.0,Pending
+BL100643,VS50210,PT1038,Male,72,2025-07-05,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,4,188.95,755.8,0.0,Paid
+BL100606,VS50197,PT1378,Male,46,2025-01-23,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,966.48,966.48,0.0,Paid
+BL100066,VS50022,PT1259,Female,77,2025-07-15,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,4,101.81,407.24,325.79,Paid
+BL100225,VS50074,PT1269,Male,51,2025-07-25,Inpatient,Neurology,Dr. Sen,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,581.5,581.5,0.0,Paid
+BL100778,VS50258,PT1212,Female,76,2025-10-21,Outpatient,Cardiology,Dr. Rao,CONSULTATION,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,1088.97,1088.97,980.07,Paid
+BL100327,VS50109,PT1178,Female,85,2025-11-07,Outpatient,Cardiology,Dr. Rao,PHARMACY,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,5,212.58,1062.9,850.32,Pending
+BL100359,VS50119,PT1202,Female,15,2025-05-29,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,SELF PAY,4,512.91,2051.64,0.0,Paid
+BL100481,VS50160,PT1261,Female,76,2025-08-29,Emergency,Cardiology,Dr. Mehta,Lab Test,Thyroid Test,DEL-Saket,delhi,North,Private Insurance,1,867.69,867.69,694.15,Paid
+BL100788,VS50262,PT1128,Female,8,2025-04-25,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,1471.06,1471.06,1323.95,Paid
+BL100820,VS50274,PT1169,Male,5,2025-12-10,Inpatient,Neurology,Dr. Sen,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Self Pay,1,1149.47,1149.47,0.0,Paid
+BL100712,VS50235,PT1161,Male,69,2025-02-06,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,Pune  ,West,Self Pay,1,886.87,886.87,0.0,Pending
+BL100190,VS50063,PT1356,Male,6,2025-01-22,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,699.31,699.31,559.45,Pending
+BL100248,VS50082,PT1234,Male,13,2025-11-21,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1274.53,1274.53,0.0,Pending
+BL100212,VS50070,PT1237,Male,19,2025-06-01,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Corporate,1,1240.95,1240.95,868.66,Pending
+BL100174,VS50057,PT1113,Male,5,2025-01-18,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,153.18,459.54,0.0,Paid
+BL100548,VS50181,PT1155,Male,60,2025-12-22,Inpatient,Dermatology,Dr. Patil,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,,1,1288.66,1288.66,0.0,Pending
+BL100506,VS50166,PT1292,Male,14,2025-02-09,Outpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,5,170.11,850.55,0.0,Paid
+BL100940,VS50314,PT1010,Female,9,2025-10-30,Outpatient,Pediatrics,Dr. Pillai,Scan,MRI Scan,HYD-Central,Hyderabad,South,Government Scheme,1,6296.25,6296.25,5666.62,Paid
+BL100538,VS50178,PT1135,Male,55,2025-03-20,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Government Scheme,2,221.78,443.56,399.2,Paid
+BL100146,VS50049,PT1329,Male,51,2025-07-06,Inpatient,neurology,Dr. Sen,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,543.73,543.73,0.0,Pending
+BL100154,VS50051,PT1242,Male,73,2025-04-11,Inpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Private Insurance,1,573.83,573.83,459.06,Paid
+BL100727,VS50238,PT1223,Female,18,2025-07-14,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Private Insurance,1,21491.07,21491.07,17192.86,Pending
+BL100687,VS50227,PT1393,Male,6,2025-10-31,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1321.57,1321.57,0.0,Paid
+BL100167,VS50055,PT1142,Female,49,2025-11-22,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1268.27,1268.27,1014.62,Paid
+BL100697,VS50230,PT1097,Female,60,2025-03-19,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1324.85,1324.85,0.0,Paid
+BL100833,VS50279,PT1340,Male,1,2025-08-09,Outpatient,pediatrics,Dr. Pillai,Scan,X-Ray,PUN-Kothrud,Pune,West,Self Pay,1,752.19,752.19,0.0,Pending
+BL100435,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Self Pay,1,8122.95,8122.95,0.0,Pending
+BL100103,VS50034,PT1065,Male,55,2025-01-12,Outpatient,Dermatology,Dr. Patil,consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,573.14,573.14,401.2,Pending
+BL100421,VS50140,PT1308,Male,5,2025-06-17,Inpatient,Cardiology,Dr. Mehta,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Self Pay,3,2054.25,6162.75,0.0,Paid
+BL100657,VS50216,PT1268,Male,4,2025-08-10,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,712.38,712.38,0.0,Paid
+BL100260,VS50086,PT1059,Female,83,2025-03-16,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,976.96,976.96,781.57,Paid
+BL100240,VS50080,PT1398,Male,37,2025-08-31,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1054.03,1054.03,0.0,Pending
+BL100427,VS50142,PT1159,Male,76,2025-04-21,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,846.23,846.23,0.0,Paid
+BL100660,VS50216,PT1268,Male,4,2025-08-10,Inpatient,Pediatrics,Dr. Pillai,Room Charges,Private Room Bed-Day,HYD-Central,Hyderabad,South,Self Pay,2,4616.0,9232.0,0.0,Paid
+BL100667,VS50219,PT1184,Female,30,2025-01-07,Outpatient,Cardiology,Dr. Mehta,Scan,MRI Scan,HYD-Central,Hyderabad,South,Private Insurance,1,7526.66,7526.66,6021.33,Paid
+BL100415,VS50139,PT1218,Male,80,2025-03-11,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,3,472.72,1418.16,0.0,Paid
+BL100713,VS50235,PT1161,Male,69,2025-02-06,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Self Pay,0,717.46,717.46,0.0,Pending
+BL100203,VS50067,PT1219,Male,49,2025-05-15,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,,1,1031.54,1031.54,0.0,Paid
+BL100285,VS50096,PT1038,Female,44,2025-11-18,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,1128.18,1128.18,1015.36,Paid
+BL100391,VS50131,PT1330,Female,56,2025-02-25,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Private Insurance,1,876.65,876.65,701.32,Pending
+BL100578,VS50188,PT1101,Female,57,2025-09-01,Inpatient,Neurology,Dr. Sen,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Self Pay,4,2257.08,9028.32,0.0,Paid
+BL100206,VS50068,PT1086,Female,57,2025-06-15,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,5,195.79,978.95,783.16,Paid
+BL100664,VS50218,PT1234,Male,58,2025-11-03,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,DELHI,North,Self Pay,1,939.02,939.02,0.0,Paid
+BL100818,VS50273,PT1024,Male,67,2025-06-21,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,Private Insurance,2,4595.15,9190.3,7352.24,Paid
+BL100455,VS50152,PT1124,Female,64,2025-12-30,Inpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,3,494.91,1484.73,0.0,Paid
+BL100176,VS50058,PT1319,Female,3,2025-07-07,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Self Pay,1,682.93,682.93,0.0,Pending
+BL100119,VS50040,PT1215,Male,72,2025-06-29,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1268.73,1268.73,0.0,Paid
+BL100078,VS50026,PT1129,Male,14,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,1,408.49,408.49,326.79,Paid
+BL100305,VS50102,PT1052,Female,33,2025-03-27,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1426.31,1426.31,1141.05,Paid
+BL100793,VS50264,PT1168,Male,6,2025-10-29,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1459.78,1459.78,1167.82,Pending
+BL100201,VS50066,PT1355,Male,64,2025-09-09,Inpatient,Cardiology,Dr. Rao,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Private Insurance,1,18674.85,18674.85,14939.88,Paid
+BL100926,VS50310,PT1338,Male,24,2025-06-03,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1396.01,1396.01,1116.81,Pending
+BL100071,VS50024,PT1201,Male,39,2025-01-22,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,589.68,589.68,0.0,Paid
+BL100544,VS50180,PT1104,Male,29,2025-03-13,Inpatient,Orthopedics,Dr. Khan,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Government Scheme,1,419.42,419.42,377.48,Paid
+BL100388,VS50130,PT1100,Male,40,2025-06-05,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,GOVERNMENT SCHEME,1,600.86,600.86,540.77,Paid
+BL100766,VS50254,PT1063,Male,3,2025-03-24,Outpatient,Orthopedics  ,Dr. Reddy,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,5,278.96,1394.8,0.0,Pending
+BL100617,VS50201,PT1002,Female,73,2025-04-28,Outpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,1,119.03,119.03,95.22,Paid
+BL100644,VS50211,PT1235,Female,42,2025-02-18,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,1328.76,1328.76,930.13,Paid
+BL100195,VS50065,PT1316,Male,53,2025-05-28,Inpatient,Neurology,Dr. Sen,Scan,Ultrasound,PUN-Kothrud,Pune,West,Private Insurance,1,1635.93,1635.93,1308.74,Paid
+BL100783,VS50260,PT1242,Male,6,2025-12-24,Outpatient,,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,553.53,553.53,442.82,Pending
+BL100634,VS50207,PT1211,Male,6,2025-01-07,Emergency,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Government Scheme,3,497.3,1491.9,1342.71,Paid
+BL100189,VS50062,PT1200,Male,73,2025-04-19,Emergency,General Medicine,Dr. Joshi,Lab Test,Blood Test,PUN-Kothrud,Pune,West,,1,506.92,506.92,456.23,Paid
+BL100328,VS50110,PT1345,Male,79,2025-03-13,Inpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,768.68,768.68,614.94,Paid
+BL100006,VS50002,PT1295,Female,7,2025-02-01,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Private Insurance,4,1597.43,6389.72,5111.78,Paid
+BL100968,VS50322,PT1194,Male,39,2025-03-21,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Self Pay,1,23084.13,23084.13,0.0,Paid
+BL100575,VS50188,PT1101,Female,57,2025-09-01,Inpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,self pay,1,660.11,660.11,0.0,Paid
+BL100465,VS50155,PT1093,Female,18,2025-08-13,Inpatient,Dermatology,Dr. Patil,LAB TEST,Blood Test,HYD-Central,Hyderabad,South,Government Scheme,1,750.78,750.78,675.7,Paid
+BL100514,VS50169,PT1149,Male,27,2025-08-13,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,8361.56,8361.56,0.0,Paid
+BL100126,VS50043,PT1004,Female,20,2025-04-04,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Corporate,1,960.78,960.78,672.55,Paid
+BL100140,VS50047,PT1179,Male,5,2025-11-14,Inpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,791.3,791.3,633.04,Paid
+BL100715,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1249.0,1249.0,0.0,Pending
+BL100716,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,1,533.71,533.71,0.0,Paid
+BL100673,VS50222,PT1231,Female,33,2025-10-27,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1467.76,1467.76,0.0,Paid
+BL100795,VS50265,PT1104,Female,2,2025-06-12,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,980.71,980.71,882.64,Pending
+BL100484,VS50161,PT1369,Female,9,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,chennai,South,Corporate,5,202.42,1012.1,708.47,Paid
+BL100083,VS50028,PT1008,Female,8,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Corporate,1,390.74,390.74,273.52,Paid
+BL100825,VS50275,PT1337,Male,24,2025-03-07,Emergency,Orthopedics,Dr. Khan,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,2,391.5,783.0,626.4,Paid
+BL100779,VS50258,PT1212,Female,76,2025-10-21,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Government Scheme  ,3,538.26,1614.78,1453.3,Paid
+BL100714,VS50235,PT1161,Male,69,2025-02-06,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay  ,5,158.49,792.45,0.0,Paid
+BL100679,VS50224,PT1121,Female,47,2025-11-26,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1124.25,1124.25,786.97,Paid
+BL100505,VS50166,PT1292,Male,14,2025-02-09,Outpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,789.67,789.67,0.0,Paid
+BL100609,VS50198,PT1199,Male,46,2025-09-18,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,4,180.48,721.92,577.54,Pending
+BL100913,VS50305,PT1078,Female,50,2025-04-14,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Government Scheme,1,320.32,320.32,288.29,Paid
+BL100518,VS50171,PT1217,Male,8,2025-12-18,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1336.13,1336.13,935.29,Paid
+BL100020,VS50008,PT1026,Male,1,2025-11-04,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1448.95,1448.95,0.0,Paid
+BL100151,VS50050,,Male,50,2025-03-29,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,688.72,688.72,0.0,Paid
+BL100332,VS50110,PT1345,Male,79,2025-03-13,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Private Insurance,5,2351.69,11758.45,9406.76,Paid
+BL100335,VS50111,PT1304,Female,83,2025-10-12,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,CHN-Adyar,CHENNAI,South,Self Pay,1,7117.12,7117.12,0.0,Paid
+BL100369,VS50123,PT1388,Female,25,2025-09-14,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Corporate,3,277.95,833.85,583.69,Pending
+BL100934,VS50312,PT1268,Male,3,2025-02-22,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,802.62,802.62,0.0,Paid
+BL100840,VS50281,PT1368,Male,63,2025-02-25,Emergency,Neurology  ,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,769.86,769.86,0.0,Paid
+BL100139,VS50047,PT1179,Male,5,2025-11-14,Inpatient,Cardiology,Dr. Rao,Scan,Ultrasound,DEL-Saket,Delhi,North,Private Insurance,1,1851.9,1851.9,1481.52,Pending
+BL100822,VS50274,PT1169,Male,5,2025-12-10,Inpatient,Neurology,Dr. Sen,Procedure,Minor Surgery,BLR-Whitefield,Bengaluru,South,Self Pay,1,9686.35,9686.35,0.0,Pending
+BL100250,VS50082,PT1234,Male,13,2025-11-21,Inpatient,Dermatology,Dr. Patil,Procedure,Physiotherapy Session,BLR-Whitefield,Bengaluru,South,Self Pay,1,1193.47,1193.47,0.0,Paid
+BL100846,VS50283,PT1200,Female,3,2025-01-11,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,PUN-Kothrud,Pune,West,,1,674.74,674.74,472.32,Paid
+BL100267,VS50088,PT1075,Female,71,2025-10-20,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Government Scheme,1,706.6,706.6,635.94,Paid
+BL100003,VS50002,PT1295,Female,7,2025-02-01,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,789.61,789.61,631.69,Paid
+BL100496,VS50164,PT1021,Female,53,2025-07-07,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,738.63,738.63,590.9,Pending
+BL100773,VS50257,PT1291,Female,85,2025-04-07,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,816.35,816.35,653.08,Paid
+BL100392,VS50131,PT1330,Female,56,2025-02-25,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,DEL-Saket,Delhi,North,Private Insurance,1,1809.17,1809.17,1447.34,Paid
+BL100375,VS50126,PT1343,Female,1,2025-08-11,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,2,440.53,881.06,704.85,Paid
+BL100266,VS50088,PT1075,Female,71,2025-10-20,Outpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,BLR-Whitefield,bengaluru,South,Government Scheme,1,2111.24,2111.24,1900.12,Paid
+BL100733,VS50240,PT1293,Male,77,2025-06-30,Outpatient,Neurology,Dr. Sen,consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,916.41,916.41,824.77,Pending
+BL100007,VS50003,PT1397,Female,8,2025-08-07,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1294.38,1294.38,1035.5,Paid
+BL100724,VS50237,PT1294,Female,2,2025-04-29,Inpatient,Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Government Scheme,2,2490.64,4981.28,4483.15,Paid
+BL100983,VS50326,PT1060,Female,9,2025-02-15,Emergency,Dermatology,Dr. Patil,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,2,595.32,1190.64,0.0,Paid
+BL100165,VS50054,PT1056,Male,17,2025-12-21,Inpatient,Orthopedics,Dr. Khan,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Corporate,1,1151.55,1151.55,806.08,Pending
+BL100882,VS50295,PT1254,Female,21,2025-06-27,Inpatient,DERMATOLOGY,Dr. Patil,Scan,X-Ray,MUM-Andheri,Mumbai,West,Self Pay,1,726.84,726.84,0.0,Paid
+BL100135,VS50045,PT1125,Male,20,2025-04-06,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Private Insurance,1,692.0,692.0,553.6,Pending
+BL100656,VS50215,PT1245,Male,30,2025-09-06,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Private Insurance,1,342.91,342.91,274.33,Paid
+BL100674,VS50222,PT1231,Female,33,2025-10-27,Inpatient,Orthopedics,Dr. Khan,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,330.95,330.95,0.0,Pending
+BL100228,VS50074,PT1269,Male,51,2025-07-25,Inpatient,Neurology,Dr. Sen,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Self Pay,0,1854.75,9273.75,0.0,Pending
+BL100868,VS50291,PT1290,Male,13,2025-06-13,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1322.16,1322.16,1057.73,Paid
+BL100076,VS50026,PT1129,Male,14,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1239.83,1239.83,991.86,Pending
+BL100947,VS50316,PT1171,Male,43,2025-12-08,Emergency,Orthopedics,Dr. Khan,Scan,MRI Scan,BLR-Whitefield,Bengaluru,South,Self Pay,1,4842.04,4842.04,0.0,Paid
+BL100556,VS50183,PT1171,Male,11,2025-03-16,Inpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,5,503.57,2517.85,0.0,Paid
+BL100001,VS50001,PT1048,Female,75,2025-10-02,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,DEL-Saket,delhi,North,Self Pay,1,537.5,537.5,0.0,Paid
+BL100938,VS50313,PT1000,Male,30,2025-07-12,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Government Scheme,1,569.04,569.04,512.14,Paid
+BL100376,VS50127,PT1382,Male,36,2025-07-21,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,942.56,942.56,754.05,Paid
+BL100566,VS50185,PT1341,Female,2,2025-05-10,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,BLR-Whitefield,Bengaluru,South,Corporate,6,1877.17,11263.02,7884.11,Paid
+BL100600,VS50196,PT1057,Female,22,2025-04-08,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,938.61,938.61,0.0,Paid
+BL100955,VS50319,PT1392,Female,6,2025-08-29,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1326.09,1326.09,1060.87,Pending
+BL100653,VS50214,PT1134,Male,7,2025-08-30,Outpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,4,319.17,1276.68,1021.34,Paid
+BL100681,VS50224,PT1121,Female,47,2025-11-26,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,DEL-Saket,Delhi,North,Corporate,1,579.3,579.3,405.51,Paid
+BL100592,VS50194,,Male,9,2025-11-01,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,794.15,794.15,635.32,Pending
+BL100309,VS50103,PT1048,Male,1,2025-06-29,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,DEL-Saket,Delhi,North, private insurance ,1,670.8,670.8,536.64,Paid
+BL100494,VS50163,PT1302,Male,40,2025-01-30,Outpatient,Cardiology,Dr. Rao,Scan,Ultrasound,HYD-Central,Hyderabad,South,Private Insurance,1,1726.99,1726.99,1381.59,Pending
+BL100767,VS50254,PT1063,Male,3,2025-03-24,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,516.38,516.38,0.0,Pending
+BL100554,VS50183,PT1171,Male,11,2025-03-16,Inpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,792.13,792.13,0.0,Paid
+BL100224,VS50074,PT1269,Male,51,2025-07-25,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,HYD-Central,  Hyderabad,South,Self Pay,1,1429.42,1429.42,0.0,Paid
+BL100310,VS50104,PT1325,Female,54,2025-01-10,Outpatient,  Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1276.91,1276.91,0.0,Paid
+BL100061,VS50020,PT1228,Male,35,2025-05-29,Outpatient,Neurology,Dr. Sen,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Government Scheme,1,608.54,608.54,547.69,Paid
+BL100478,VS50159,PT1077,Female,50,2025-07-16,Inpatient,General Medicine,Dr. Nair,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Private Insurance,1,23444.86,23444.86,18755.89,Paid
+BL100522,VS50172,PT1280,Male,20,2025-06-16,Inpatient,Dermatology,Dr. Patil,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Corporate,1,11368.65,11368.65,7958.05,Paid
+BL100271,VS50090,PT1288,Female,52,2025-10-23,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,DEL-Saket,Delhi,North,Self Pay,1,523.0,523.0,0.0,Paid
+BL100460,VS50154,PT1384,Male,14,2025-05-17,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,503.93,503.93,453.54,Pending
+BL100177,VS50059,PT1179,Female,78,2025-10-15,Inpatient,GENERAL MEDICINE,Dr. Nair,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,544.0,544.0,0.0,Paid
+BL100469,VS50156,PT1118,Female,14,2025-11-01,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Self Pay,1,1082.35,1082.35,0.0,Paid
+BL100948,VS50316,PT1171,Male,43,2025-12-08,Emergency,Orthopedics,Dr. Khan,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,830.23,830.23,0.0,Paid
+BL100348,VS50115,PT1300,Male,11,2025-02-20,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,1022.68,1022.68,0.0,Pending
+BL100658,VS50216,PT1268,Male,4,2025-08-10,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,-1,562.05,2248.2,0.0,Paid
+BL100153,VS50051,PT1242,Male,73,2025-04-11,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1438.55,1438.55,1150.84,Paid
+BL100974,VS50324,PT1124,Male,16,2025-03-19,Inpatient,Orthopedics,Dr. Khan,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Government Scheme,1,15526.44,15526.44,13973.8,Paid
+BL100863,VS50289,PT1375,Male,4,2025-07-11,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1175.7,1175.7,940.56,Paid
+BL100245,VS50081,PT1207,Male,52,2025-10-11,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,689.94,689.94,0.0,Pending
+BL100405,VS50136,PT1292,Female,48,2025-10-17,Inpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,388.15,388.15,310.52,Paid
+BL100431,VS50144,PT1394,Male,14,2025-10-15,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,DEL-Saket,Delhi,North,Self Pay,1,836.41,836.41,0.0,Pending
+BL100579,VS50189,PT1367,Female,68,2025-07-05,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,949.66,949.66,0.0,Paid
+BL100636,VS50208,PT1275,Male,59,2025-02-02,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Self Pay,1,1058.84,1058.84,0.0,Paid
+BL100233,VS50077,PT1273,Male,79,2025-07-26,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,697.37,697.37,0.0,Paid
+BL100542,VS50180,PT1104,Male,29,2025-03-13,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1291.59,1291.59,1162.43,Paid
+BL100937,VS50313,PT1000,Male,30,2025-07-12,Outpatient,General Medicine,Dr. Joshi,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Government Scheme,1,7119.01,7119.01,6407.11,Paid
+BL100129,VS50044,PT1282,Female,21,2025-09-04,Inpatient,Orthopedics,Dr. Reddy,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Private Insurance,1,799.09,799.09,639.27,Paid
+BL100740,VS50243,PT1193,Male,3,2025-11-06,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,DEL-Saket,Delhi,North,Government Scheme,2,352.45,704.9,634.41,Pending
+BL100922,VS50308,PT1328,Male,13,2025-11-23,Outpatient,GENERAL MEDICINE,Dr. Nair,Scan,Ultrasound,CHN-Adyar,Chennai,South,Private Insurance,1,1278.64,1278.64,1022.91,Paid
+BL100803,VS50268,PT1299,Female,50,2025-05-17,Emergency,Orthopedics,Dr. Khan,Pharmacy,Medicines,BLR-Whitefield,bengaluru,South,Corporate,1,514.8,514.8,360.36,Pending
+BL100033,VS50012,PT1244,Male,56,2025-04-13,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,901.39,901.39,811.25,Pending
+BL100631,VS50206,PT1092,Female,57,2025-01-29,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Government Scheme,3,291.15,873.45,786.11,Paid
+BL100839,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,2,5312.39,10624.78,0.0,Paid
+BL100749,VS50247,PT1228,Male,19,2025-04-22,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,624.46,624.46,0.0,Paid
+BL100090,VS50030,PT1199,Male,47,2025-07-21,Inpatient,Dermatology,Dr. Patil,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,7357.34,7357.34,0.0,Paid
+BL100735,VS50241,PT1236,Female,4,2025-01-18,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,683.81,683.81,478.67,Paid
+BL100050,VS50017,PT1341,Male,21,2025-03-25,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,921.28,921.28,829.15,Paid
+BL100498,VS50164,PT1021,Female,53,2025-07-07,Inpatient,Neurology,Dr. Sen,Scan,Ultrasound,DEL-Saket,Delhi,North,Private Insurance,1,1654.28,1654.28,1323.42,Paid
+BL100127,VS50043,PT1004,Female,20,2025-04-04,Outpatient,General Medicine,Dr. Nair,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Corporate,1,1002.72,1002.72,701.9,Paid
+BL100935,VS50312,PT1268,Male,3,2025-02-22,Outpatient,Pediatrics,Dr. Pillai,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Self Pay,1,8635.36,8635.36,0.0,Pending
+BL100319,VS50107,PT1075,Female,2,2025-10-01,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,,1,1077.34,1077.34,861.87,Paid
+BL100109,VS50036,PT1000,Male,69,2025-11-04,Emergency,Orthopedics,Dr. Reddy,Scan,MRI Scan,CHN-Adyar,Chennai,South,Self Pay,1,6868.25,6868.25,0.0,Paid
+BL100100,VS50033,PT1383,Female,50,2025-01-11,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,770.24,770.24,0.0,Paid
+BL100861,VS50288,PT1328,Female,18,2025-09-30,Emergency,Neurology,Dr. Sen,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,2,301.01,602.02,481.62,Paid
+BL100079,VS50027,PT1155,Male,2,2025-12-21,Outpatient,  Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,1472.51,1472.51,1178.01,Paid
+BL100395,VS50133,PT1054,Female,7,2025-01-22,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,999.53,999.53,0.0,Paid
+BL100581,VS50189,PT1367,Female,68,2025-07-05,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,831.53,831.53,0.0,Pending
+BL100418,VS50140,PT1308,Male,5,2025-06-17,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,693.15,693.15,0.0,Paid
+BL100236,VS50078,PT1029,Female,60,2025-10-13,Outpatient,General Medicine,Dr. Joshi,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,2,520.38,1040.76,832.61,Paid
+BL100588,VS50193,PT1309,Female,10,2025-11-05,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,593.84,593.84,0.0,Paid
+BL100398,VS50134,PT1045,Male,57,2025-07-25,Outpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,  Private Insurance,1,585.9,585.9,468.72,Paid
+BL100755,VS50249,PT1280,Male,6,2025-10-21,Outpatient,NEUROLOGY,Dr. Sen,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,438.93,1316.79,0.0,Paid
+BL100347,VS50115,PT1300,Male,11,2025-02-20,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,997.86,997.86,0.0,Paid
+BL100043,VS50014,PT1215,Male,69,2025-09-22,Inpatient,Cardiology,Dr. Mehta,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Private Insurance,2,6649.68,13299.36,10639.49,Paid
+BL100317,VS50106,PT1318,Male,33,2025-01-19,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,933.69,933.69,746.95,Pending
+BL100238,VS50079,PT1346,Male,24,2025-08-03,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,  Self Pay,1,355.31,355.31,0.0,Paid
+BL100720,VS50237,PT1294,Female,2,2025-04-29,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1452.02,1452.02,1306.82,Paid
+BL100462,VS50154,PT1384,Male,14,2025-05-17,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Government Scheme,1,627.24,627.24,564.52,Paid
+BL100927,VS50310,PT1338,Male,24,2025-06-03,Outpatient,General Medicine,Dr. Joshi, pharmacy ,Medicines,DEL-Saket,Delhi,North,Private Insurance,4,442.58,1770.32,1416.26,Paid
+BL100211,VS50069,PT1132,Male,3,2025-04-07,Inpatient,,Dr. Pillai,Room Charges,Private Room Bed-Day,BLR-Whitefield,Bengaluru,South,Self Pay,3,6655.74,19967.22,0.0,Paid
+BL100942,VS50315,PT1148,Female,1,2025-04-10,Inpatient,PEDIATRICS,Dr. Pillai,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Private Insurance,3,568.66,1705.98,1364.78,Paid
+BL100345,VS50114,PT1159,Male,15,2025-02-08,Inpatient,Orthopedics,Dr. Reddy,Procedure,Physiotherapy Session,CHN-Adyar,Chennai,South,Self Pay,1,1198.91,1198.91,0.0,Paid
+BL100946,VS50316,PT1171,Male,43,2025-12-08,Emergency,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1313.58,1313.58,0.0,Paid
+BL100786,VS50261,PT1041,Male,4,2025-02-14,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,2,422.61,845.22,676.18,Paid
+BL100008,VS50003,PT1397,Female,8,2025-08-07,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,MUM-Andheri,Mumbai,West,Private Insurance,1,440.93,440.93,352.74,Paid
+BL100533,VS50176,PT1155,Male,34,2025-09-03,Emergency,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Government Scheme,1,617.07,617.07,555.36,Paid
+BL100312,VS50105,PT1166,Male,11,2025-01-28,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Government Scheme,1,864.43,864.43,777.99,Paid
+BL100719,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,3,6188.15,18564.45,0.0,Pending
+BL100204,VS50067,PT1219,Male,49,2025-05-15,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,-1740.19,1740.19,0.0,Paid
+BL100509,VS50167,PT1003,Male,69,2025-09-23,Outpatient,Dermatology,Dr. Patil,Scan,Ultrasound,CHN-Adyar,Chennai,South,Self Pay,1,966.49,966.49,0.0,Paid
+BL100924,VS50309,PT1313,Male,3,2025-05-12,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,579.53,579.53,405.67,Pending
+BL100132,VS50044,PT1282,Female,21,2025-09-04,Inpatient,Orthopedics,Dr. Reddy,Room Charges,General Ward Bed-Day,HYD-Central,Hyderabad,South,Private Insurance,4,1793.78,7175.12,5740.1,Paid
+BL100682,VS50225,PT1068,Male,48,2025-07-25,Emergency,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru  ,South,Private Insurance,1,627.56,627.56,502.05,Paid
+BL100446,VS50149,PT1013,Female,10,2025-01-07,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,  Chennai,South,Corporate,1,656.68,656.68,459.68,Paid
+BL100355,VS50118,PT1155,Female,78,2025-08-22,Outpatient,  Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1177.28,1177.28,1059.55,Paid
+BL100062,VS50020,PT1228,Male,35,2025-05-29,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,PUN-Kothrud,Pune,West,Government Scheme,1,4978.27,4978.27,4480.44,Pending
+BL100986,VS50328,PT1088,Female,11,2025-03-13,Emergency,Pediatrics  ,Dr. Pillai,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Corporate,1,774.63,774.63,542.24,Paid
+BL100350,VS50115,PT1300,Male,11,2025-02-20,Inpatient,Pediatrics,Dr. Pillai,Room Charges,General Ward Bed-Day,CHN-Adyar,Chennai,South,Self Pay,3,1656.77,4970.31,0.0,Paid
+BL100845,VS50283,PT1200,Female,3,2025-01-11,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Corporate,1,1261.25,1261.25,882.88,Paid
+BL100179,VS50059,PT1179,Female,78,2025-10-15,Inpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,1,406.32,406.32,0.0,Paid
+BL100232,VS50076,PT1324,Male,85,2025-06-26,Outpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Private Insurance,1,647.09,647.09,517.67,Pending
+BL100239,VS50079,PT1346,Male,24,2025-08-03,Outpatient,DERMATOLOGY,Dr. Patil,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,320.34,320.34,0.0,Paid
+BL100769,VS50255,PT1012,Male,22,2025-09-05,Outpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Private Insurance,1,818.13,818.13,654.5,Paid
+BL100181,VS50059,PT1179,Female,78,2025-10-15,Inpatient,General Medicine,Dr. Nair,Room Charges,Private Room Bed-Day,HYD-Central,Hyderabad,South,Self Pay,6,4523.92,27143.52,0.0,Paid
+BL100085,VS50028,PT1008,Female,8,2025-08-31,Inpatient,Pediatrics,Dr. Pillai,Room Charges,Private Room Bed-Day,CHN-Adyar,Chennai,South,corporate,2,6110.01,12220.02,8554.01,Paid
+BL100009,VS50003,PT1397,Female,8,2025-08-07,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Private Insurance,3,464.72,1394.16,1115.33,Paid
+BL100831,VS50278,PT1272,Male,5,2025-10-17,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,DEL-Saket,Delhi,North,Government Scheme,1,1664.46,1664.46,1498.01,Paid
+BL100650,VS50213,PT1070,Female,33,2025-04-01,Emergency,Orthopedics,Dr. Reddy,Scan,X-Ray,CHN-Adyar,Chennai,South,Private Insurance,1,542.64,542.64,434.11,Paid
+BL100794,VS50264,PT1168,Male,6,2025-10-29,Emergency,Pediatrics,Dr. Pillai,Scan,X-Ray,HYD-Central,Hyderabad,South,Private Insurance,1,649.34,649.34,519.47,Paid
+BL100543,VS50180,PT1104,Male,29,2025-03-13,Inpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Government Scheme,5,489.63,2448.15,2203.34,Pending
+BL100170,VS50056,PT1201,Female,34,2025-11-19,Outpatient,Dermatology,Dr. Patil,Scan,X-Ray,CHN-Adyar,Chennai,South,Corporate,1,488.38,488.38,341.87,Paid
+BL100595,VS50195,PT1258,Female,7,2025-01-15,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1084.92,1084.92,976.43,Paid
+BL100582,VS50190,PT1084,Male,12,2025-06-07,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1341.61,1341.61,0.0,Paid
+BL100821,VS50274,PT1169,Male,5,2025-12-10,Inpatient,,Dr. Sen,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,4,351.15,1404.6,0.0,Paid
+BL100876,VS50293,PT1153,Male,27,2025-05-23,Inpatient,Cardiology,Dr. Rao,Scan,Ultrasound,DEL-Saket,Delhi,North,Self Pay,1,1529.22,1529.22,0.0,Paid
+BL100711,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Private Insurance,2,6147.62,12295.24,9836.19,Paid
+BL100425,VS50141,PT1353,Female,57,2025-10-03,Inpatient,General Medicine,Dr. Joshi,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Government Scheme,5,6902.59,34512.95,31061.65,Paid
+BL100532,VS50175,PT1262,Male,53,2025-01-21,Outpatient,Orthopedics,Dr. Reddy,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Self Pay,1,1113.05,1113.05,0.0,Paid
+BL100705,VS50233,PT1185,Female,68,2025-09-24,Outpatient,,Dr. Reddy,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Government Scheme,1,451.56,451.56,406.4,Paid
+BL100958,VS50320,PT1337,Male,56,2025-10-17,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Self Pay,1,803.95,803.95,0.0,Pending
+BL100623,VS50204,PT1376,Male,55,2025-11-29,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,1046.12,1046.12,0.0,Paid
+BL100333,VS50111,PT1304,Female,83,2025-10-12,Outpatient,NEUROLOGY,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,944.03,944.03,0.0,Paid
+BL100703,VS50232,PT1237,Female,40,2025-04-26,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,2,565.83,1131.66,0.0,Pending
+BL100905,VS50303,PT1266,Male,44,2025-06-16,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Private Insurance,1,683.43,683.43,546.74,Paid
+BL100227,VS50074,PT1269,Male,51,2025-07-25,Inpatient,Neurology,Dr. Sen,Procedure,Physiotherapy Session,HYD-Central,Hyderabad,South,Self Pay,1,1127.67,1127.67,0.0,Paid
+BL100406,VS50136,PT1292,Female,48,2025-10-17,Inpatient,Cardiology,Dr. Mehta,Procedure,Physiotherapy Session,PUN-Kothrud,Pune,West,Private Insurance,1,1052.0,1052.0,841.6,Paid
+BL100241,VS50080,PT1398,Male,37,2025-08-31,Inpatient,Neurology,Dr. Sen,Scan,MRI Scan,DEL-Saket,Delhi,North,Self Pay,1,6098.3,6098.3,0.0,Paid
+BL100529,VS50174,PT1000,Female,25,2025-02-21,Inpatient,Orthopedics,Dr. Reddy,Procedure,Minor Surgery,HYD-Central,Hyderabad,South,Private Insurance,1,9864.02,9864.02,7891.22,Pending
+BL100645,VS50211,PT1235,Female,42,2025-02-18,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Corporate,1,781.72,781.72,547.2,Paid
+BL100850,VS50284,PT1119,Female,76,2025-05-04,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,DEL-Saket,Delhi,North,Government Scheme,4,255.66,1022.64,920.38,Paid
+BL100884,VS50295,PT1254,Female,21,2025-06-27,Inpatient,Dermatology,Dr. Patil,Room Charges,General Ward Bed-Day,MUM-Andheri,Mumbai,West,Self Pay,5,1781.9,8909.5,0.0,Paid
+BL100096,VS50031,PT1230,Male,83,2025-07-30,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Corporate,1,743.73,743.73,520.61,Paid
+BL100399,VS50134,PT1045,Male,57,2025-07-25,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Private Insurance,5,455.39,2276.95,1821.56,Pending
+BL100014,VS50005,PT1374,Female,83,2025-02-01,Outpatient,Neurology,Dr. Sen,pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,3,164.67,494.01,395.21,Paid
+BL100276,VS50093,PT1131,Female,10,2025-02-16,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1456.42,1456.42,1165.14,Paid
+BL100124,VS50042,PT1162,Female,5,2025-12-20,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,524.26,524.26,419.41,Paid
+BL100811,VS50271,PT1019,Male,26,2025-05-03,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Corporate,1,1273.98,1273.98,891.79,Paid
+BL100094,VS50031,PT1230,Male,83,2025-07-30,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Corporate,1,670.76,670.76,469.53,Paid
+BL100809,VS50270,PT1372,Male,4,2025-01-08,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Private Insurance,1,764.16,764.16,611.33,Pending
+BL100858,VS50287,PT1051,Female,15,2025-03-28,Outpatient,Dermatology,Dr. Patil,Scan,MRI Scan,PUN-Kothrud,Pune,West,Self Pay,1,7208.85,7208.85,0.0,Paid
+BL100916,VS50307,PT1148,Female,57,2025-03-12,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1339.59,1339.59,1071.67,Paid
+BL100492,VS50162,PT1052,Female,46,2025-07-12,Inpatient,Cardiology,Dr. Mehta,Room Charges,General Ward Bed-Day,BLR-Whitefield,Bengaluru,South,Private Insurance,6,1870.77,11224.62,8979.7,Paid
+BL100744,VS50245,PT1367,Male,31,2025-06-24,Outpatient,General Medicine,Dr. Joshi,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Government Scheme,1,885.62,885.62,797.06,Paid
+BL100808,VS50270,PT1372,Male,4,2025-01-08,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,741.91,,593.53,Pending
+BL100115,VS50038,PT1055,Female,79,2025-06-01,Outpatient,Orthopedics,Dr. Khan,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,853.15,853.15,0.0,Paid
+BL100428,VS50143,PT1010,Male,59,2025-04-27,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1226.96,1226.96,981.57,Paid
+BL100911,VS50305,PT1078,Female,50,2025-04-14,Outpatient,CARDIOLOGY,Dr. Mehta,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,925.38,925.38,832.84,Pending
+BL100930,VS50311,PT1072,Female,72,2025-07-19,Inpatient,General Medicine,Dr. Nair,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Self Pay,1,800.03,800.03,0.0,Pending
+BL100805,VS50269,PT1197,Male,48,2025-12-01,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,-1419.11,1419.11,1135.29,Paid
+BL100835,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1254.71,1254.71,0.0,Paid
+BL100453,VS50151,PT1205,Male,4,2025-04-27,Outpatient,Dermatology  ,Dr. Patil,Lab Test,Blood Test,BLR-Whitefield,Bengaluru,South,Corporate,1,455.47,455.47,318.83,Paid
+BL100075,VS50025,PT1071,Male,75,2025-09-16,Inpatient,Cardiology,Dr. Mehta,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Private Insurance,5,1763.79,8818.95,7055.16,Paid
+BL100790,VS50263,PT1030,Female,30,2025-12-16,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri, mumbai ,West,Government Scheme,1,660.5,660.5,594.45,Paid
+BL100070,VS50024,PT1201,Male,39,2025-01-22,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,5,294.76,1473.8,0.0,Paid
+BL100019,VS50007,PT1189,Female,17,2025-10-01,Outpatient,Neurology,Dr. Sen,Scan,MRI Scan,HYD-Central,Hyderabad,South,Self Pay,1,7354.3,7354.3,0.0,Paid
+BL100358,VS50119,PT1202,Female,15,2025-05-29,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,903.2,903.2,0.0,Paid
+BL100349,VS50115,PT1300,Male,11,2025-02-20,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,CHN-Adyar,Chennai,South,Self Pay,1,17765.95,17765.95,0.0,Paid
+BL100637,VS50209,PT1386,Male,34,2025-05-28,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1110.6,1110.6,0.0,Paid
+BL100021,VS50008,PT1026,Male,1,2025-11-04,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,2,407.03,814.06,0.0,Paid
+BL100959,VS50320,PT1337,Male,56,2025-10-17,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,3,573.47,1720.41,0.0,Paid
+BL100545,VS50180,PT1104,Male,29,2025-03-13,Inpatient,Orthopedics,Dr. Khan,Procedure,Physiotherapy Session,BLR-Whitefield,Bengaluru,South,Government Scheme,1,1350.63,1350.63,1215.57,Paid
+BL100785,VS50261,PT1041,Male,4,2025-02-14,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1229.14,1229.14,983.31,Paid
+BL100274,VS50092,PT1102,Male,7,2025-06-23,Outpatient,  Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Government Scheme,1,534.81,534.81,481.33,Paid
+BL100585,VS50191,PT1342,Female,18,2025-07-31,Outpatient,Orthopedics,Dr. Khan,Scan,X-Ray,PUN-Kothrud,Pune,West,Private Insurance,1,825.97,825.97,660.78,Paid
+BL100321,VS50108,PT1363,Female,8,2025-10-08,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1318.82,1318.82,0.0,Paid
+BL100476,VS50159,PT1077,Female,50,2025-07-16,Inpatient,General Medicine,Dr. Nair,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Private Insurance,1,916.2,916.2,732.96,Paid
+BL100963,VS50321,PT1121,Female,29,2025-05-15,Inpatient,Orthopedics,Dr. Khan,Lab Test,Thyroid Test,DEL-Saket,Delhi,North,Self Pay,1,1061.3,1061.3,0.0,Paid
+BL100732,VS50239,PT1060,Female,4,2025-02-21,Inpatient,Orthopedics,Dr. Reddy, room charges ,Private Room Bed-Day,CHN-Adyar,Chennai,South,Self Pay,4,5915.9,23663.6,0.0,Pending
+BL100690,VS50227,PT1393,Male,6,2025-10-31,Inpatient,Pediatrics,Dr. Pillai,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Self Pay,1,21572.75,21572.75,0.0,Pending
+BL100854,VS50286,PT1198,Male,14,2025-10-08,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,810.67,810.67,729.6,Pending
+BL100851,VS50285,PT1334,Female,32,2025-05-04,Outpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Corporate,1,1133.68,1133.68,793.58,Paid
+BL100162,VS50054,PT1056,Male,17,2025-12-21,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Corporate,1,565.52,565.52,395.86,Paid
+BL100037,VS50012,PT1244,Male,56,2025-04-13,Inpatient,Dermatology,Dr. Patil,Room Charges,Private Room Bed-Day,MUM-Andheri,Mumbai,West,Government Scheme,4,4467.74,17870.96,16083.86,Paid
+BL100602,VS50196,PT1057,Female,22,2025-04-08,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,1,559.97,559.97,0.0,Paid
+BL100145,VS50049,PT1329,Male,51,2025-07-06,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1401.63,1401.63,0.0,Paid
+BL100463,VS50155,PT1093,Female,18,2025-08-13,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,651.93,651.93,586.74,Pending
+BL100717,VS50236,PT1309,Female,60,2025-04-05,Inpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,316.59,316.59,0.0,Paid
+BL100638,VS50209,PT1386,Male,34,2025-05-28,Inpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,476.57,1429.71,0.0,Paid
+BL100754,VS50249,PT1280,Male,6,2025-10-21,Outpatient,Neurology,Dr. Sen,Scan,Ultrasound,DEL-Saket,Delhi,North,Self Pay,1,1761.56,1761.56,0.0,Paid
+BL100651,VS50213,PT1070,Female,33,2025-04-01,Emergency,Orthopedics,Dr. Reddy,Lab Test,Blood Test,CHN-Adyar,Chennai,South,Private Insurance,1,434.39,434.39,347.51,Paid
+BL100017,VS50006,PT1142,Male,56,2025-10-09,Outpatient,General Medicine,Dr. Joshi,Scan,Ultrasound,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1203.34,1203.34,962.67,Paid
+BL100859,VS50287,PT1051,Female,15,2025-03-28,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Self Pay,1,670.39,670.39,0.0,Paid
+BL100365,VS50121,PT1322,Male,39,2025-07-12,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South, private insurance ,1,820.8,820.8,656.64,Paid
+BL100449,VS50150,PT1169,Male,80,2025-10-22,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1275.99,1275.99,893.19,Paid
+BL100765,VS50254,PT1063,Male,3,2025-03-24,Outpatient,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,963.36,963.36,0.0,Paid
+BL100432,VS50145,PT1125,Female,71,2025-11-22,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1171.75,1171.75,0.0,Pending
+BL100856,VS50286,PT1198,Male,14,2025-10-08,Outpatient,Orthopedics,Dr. Khan,Scan,MRI Scan,PUN-Kothrud,Pune,West,Government Scheme,1,4521.63,4521.63,4069.47,Paid
+BL100537,VS50178,PT1135,Male,55,2025-03-20,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Government Scheme,1,1069.81,1069.81,962.83,Paid
+BL100400,VS50135,PT1002,Female,73,2025-06-01,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,585.04,585.04,0.0,Paid
+BL100798,VS50266,PT1215,Male,27,2025-02-02,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Corporate,1,1253.21,1253.21,877.25,Paid
+BL100026,VS50010,PT1046,Female,9,2025-11-26,Outpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,PUN-Kothrud,Pune,West,Self Pay,1,881.87,881.87,0.0,Paid
+BL100112,VS50037,PT1217,Female,30,2025-12-08,Outpatient,General Medicine,Dr. Nair,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Self Pay,1,778.24,778.24,0.0,Paid
+BL100829,VS50277,PT1343,Male,1,2025-02-17,Emergency,Dermatology,Dr. Patil,  Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Government Scheme,1,1008.04,1008.04,907.24,Paid
+BL100725,VS50238,PT1223,Female,18,2025-07-14,Inpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1170.87,1170.87,936.7,Paid
+BL100625,VS50205,PT1390,Female,19,2025-06-08,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,506.94,506.94,0.0,Paid
+BL100015,VS50006,PT1142,Male,56,2025-10-09,Outpatient,General Medicine,Dr. Joshi,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1182.72,1182.72,946.18,Paid
+BL100307,VS50103,PT1048,Male,1,2025-06-29,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1085.9,1085.9,868.72,Paid
+BL100683,VS50225,PT1068,Male,48,2025-07-25,Emergency,General Medicine,Dr. Joshi,Scan,X-Ray,BLR-Whitefield,Bengaluru,South,Private Insurance,1,839.46,839.46,671.57,Paid
+BL100954,VS50318,PT1050,Female,75,2025-07-11,Outpatient,Cardiology,Dr. Mehta,Scan,MRI Scan,MUM-Andheri,Mumbai,West,Private Insurance,1,4940.81,4940.81,3952.65,Paid
+BL100060,VS50020,PT1228,Male,35,2025-05-29,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Government Scheme,1,515.35,515.35,463.82,Paid
+BL100513,VS50169,PT1149,Male,27,2025-08-13,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,1378.06,1378.06,0.0,Paid
+BL100866,VS50290,PT1337,Female,38,2025-03-29,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1232.71,1232.71,986.17,Paid
+BL100904,VS50303,PT1266,Male,44,2025-06-16,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,1170.35,1170.35,936.28,Paid
+BL100965,VS50321,PT1121,Female,29,2025-05-15,Inpatient,Orthopedics,Dr. Khan,Room Charges,General Ward Bed-Day,DEL-Saket,Delhi,North,Self Pay,3,2338.33,7014.99,0.0,Paid
+BL100329,VS50110,PT1345,Male,79,2025-03-13,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Private Insurance,4,-535.41,2141.64,1713.31,Paid
+BL100256,VS50084,PT1342,Male,12,2025-12-17,Outpatient,Orthopedics,Dr. Khan,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Self Pay,1,570.47,570.47,0.0,Paid
+BL100005,VS50002,PT1295,Female,7,2025-02-01,Inpatient,Cardiology,Dr. Rao,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Private Insurance,1,9751.95,9751.95,7801.56,Paid
+BL100925,VS50309,PT1313,Male,3,2025-05-12,Outpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Corporate,3,229.56,688.68,482.08,Paid
+BL100799,VS50266,PT1215,Male,27,2025-02-02,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,DEL-Saket,Delhi,North,Corporate,1,710.54,710.54,497.38,Pending
+BL100207,VS50068,PT1086,Female,57,2025-06-15,Outpatient,Orthopedics,Dr. Reddy,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,734.0,734.0,587.2,Pending
+BL100270,VS50090,PT1288,Female,52,2025-10-23,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,-1422.62,1422.62,0.0,Paid
+BL100555,VS50183,PT1171,Male,11,2025-03-16,Inpatient,General Medicine,Dr. Nair,Scan,MRI Scan,PUN-Kothrud,Pune,West,Self Pay,1,5342.8,5342.8,0.0,Pending
+BL100198,VS50066,,Male,64,2025-09-09,Inpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,783.73,783.73,626.98,Paid
+BL100635,VS50208,PT1275,Male,59,2025-02-02,Outpatient,Neurology,Dr. Sen,CONSULTATION,Doctor Consultation,DEL-Saket,Delhi,North,Self Pay,1,1149.94,1149.94,0.0,Paid
+BL100666,VS50219,PT1184,Female,30,2025-01-07,Outpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,1011.65,1011.65,809.32,Pending
+BL100367,VS50122,PT1138,Female,4,2025-10-05,Outpatient,Orthopedics,Dr. Khan,Scan,X-Ray,DEL-Saket,Delhi,North,Private Insurance,1,788.07,788.07,630.46,Paid
+BL100215,VS50071,PT1232,Female,41,2025-03-05,Emergency,Dermatology,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi  ,North,Self Pay,1,742.4,742.4,0.0,Paid
+BL100334,VS50111,PT1304,Female,83,2025-10-12,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,CHN-Adyar,Chennai,South,Self Pay,1,981.77,981.77,0.0,Paid
+BL100424,VS50141,PT1353,Female,57,2025-10-03,Inpatient,General Medicine,Dr. Joshi,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Government Scheme,1,9268.27,,8341.44,Paid
+BL100353,VS50117,PT1197,Male,1,2025-11-16,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,939.64,939.64,0.0,Paid
+BL100877,VS50293,PT1153,Male,27,2025-05-23,Inpatient,Cardiology,Dr. Rao,Procedure,Minor Surgery,DEL-Saket, delhi ,North,Self Pay,1,14491.53,14491.53,0.0,Paid
+BL100774,VS50257,PT1291,Female,85,2025-04-07,Inpatient,Cardiology,Dr. Mehta,Scan,MRI Scan,MUM-Andheri,  Mumbai,West,Private Insurance,1,8970.8,8970.8,7176.64,Paid
+BL100208,VS50069,PT1132,Male,3,2025-04-07,Inpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,650.96,650.96,0.0,Paid
+BL100130,VS50044,PT1282,Female,21,2025-09-04,Inpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,2,217.1,434.2,347.36,Paid
+BL100648,VS50212,PT1400,Female,85,2025-03-22,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,HYD-Central,Hyderabad,South,  Corporate,1,132.4,132.4,92.68,Paid
+BL100539,VS50178,PT1135,Male,55,2025-03-20,Outpatient,Dermatology,Dr. Patil,Lab Test,Blood Test,HYD-Central,Hyderabad,South,Government Scheme,1,792.82,792.82,713.54,Paid
+BL100028,VS50011,PT1014,Female,61,2025-01-15,Inpatient,Orthopedics,Dr. Khan,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,1308.57,1308.57,1046.86,Paid
+BL100193,VS50064,PT1051,Male,13,2025-09-02,Outpatient,Cardiology,Dr. Rao,Scan,MRI Scan,DEL-Saket,Delhi,North,Private Insurance,1,5655.16,5655.16,4524.13,Paid
+BL100443,VS50148,PT1002,Male,35,2025-03-11,Inpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Self Pay,1,424.47,424.47,0.0,Paid
+BL100534,VS50176,PT1155,Male,34,2025-09-03,Emergency,Neurology,Dr. Sen,Lab Test,Blood Test,DEL-Saket,Delhi,North,Government Scheme,1,494.56,494.56,445.1,Paid
+BL100038,VS50013,PT1222,Male,28,2025-03-13,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,  Pune,West,Private Insurance,1,792.97,792.97,634.38,Paid
+BL100594,VS50194,PT1016,Male,9,2025-11-01,Outpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Private Insurance,1,1931.51,1931.51,1545.21,Paid
+BL100074,VS50025,PT1071,Male,75,2025-09-16,Inpatient,Cardiology,Dr. Mehta,Procedure,Minor Surgery,DEL-Saket,Delhi,North,Private Insurance,1,18672.04,18672.04,14937.63,Paid
+BL100413,VS50138,PT1052,Female,14,2025-09-21,Outpatient, pediatrics ,Dr. Pillai,Lab Test,Blood Test,DEL-Saket,Delhi,North,Corporate,1,328.33,328.33,229.83,Paid
+BL100002,VS50001,PT1048,Female,75,2025-10-02,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,2,145.36,290.72,0.0,Paid
+BL100480,VS50160,PT1261,Female,76,2025-08-29,Emergency,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,1212.17,1212.17,969.74,Paid
+BL100686,VS50226,PT1360,Female,41,2025-06-26,Outpatient,General Medicine,Dr. Nair,Scan,MRI Scan,PUN-Kothrud,Pune,West,Private Insurance,1,6163.68,6163.68,4930.94,Pending
+BL100901,VS50302,PT1004,Male,5,2025-08-09,Emergency,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Private Insurance,1,969.99,969.99,775.99,Paid
+BL100445,VS50148,PT1002,Male,35,2025-03-11,Inpatient,Cardiology,Dr. Rao,Room Charges,General Ward Bed-Day,PUN-Kothrud,Pune,West,Self Pay,2,2126.31,4252.62,0.0,Paid
+BL100390,VS50131,PT1330,Female,56,2025-02-25,Outpatient,DERMATOLOGY,Dr. Patil,Consultation,Doctor Consultation,DEL-Saket,Delhi,North,Private Insurance,1,859.3,859.3,687.44,Paid
+BL100474,VS50158,PT1260,Male,53,2025-04-11,Outpatient,Neurology,Dr. Sen,Lab Test,Thyroid Test,HYD-Central,Hyderabad,South,Corporate,1,1089.42,1089.42,762.59,Pending
+BL100763,VS50253,PT1395,Male,56,2025-02-15,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1358.61,1358.61,1086.89,Paid
+BL100185,VS50061,PT1043,Male,3,2025-04-22,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,1246.15,1246.15,996.92,Paid
+BL100488,VS50162,PT1052,Female,46,2025-07-12,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,895.55,895.55,716.44,Pending
+BL100121,VS50041,PT1015,Female,4,2025-08-31,Outpatient,Pediatrics,Dr. Pillai,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,964.05,964.05,0.0,Pending
+BL100314,VS50105,PT1166,Male,11,2025-01-28,Inpatient,Pediatrics,Dr. Pillai,Scan,Ultrasound,MUM-Andheri,Mumbai,West,Government Scheme,1,927.08,927.08,834.37,Paid
+BL100073,VS50025,PT1071,Male,75,2025-09-16,Inpatient,Cardiology,Dr. Mehta,Lab Test,Blood Test,DEL-Saket,Delhi,North,Private Insurance,1,525.97,525.97,420.78,Paid
+BL100067,VS50023,PT1111,Female,3,2025-06-08,Outpatient,Pediatrics,Dr. Pillai,  Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,583.89,583.89,0.0,Paid
+BL100340,VS50113,PT1117,Male,53,2025-09-26,Outpatient,Neurology,Dr. Sen,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Private Insurance,4,320.08,1280.32,1024.26,Paid
+BL100855,VS50286,PT1198,Male,14,2025-10-08,Outpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,PUN-Kothrud,Pune,West,Government Scheme,1,146.75,146.75,132.08,Paid
+BL100354,VS50117,PT1197,Male,1,2025-11-16,Emergency,Pediatrics,Dr. Pillai,Scan,X-Ray,CHN-Adyar,Chennai,South,Self Pay,1,511.45,511.45,0.0,Paid
+BL100234,VS50077,PT1273,Male,79,2025-07-26,Outpatient,General Medicine,Dr. Nair,Pharmacy,Medicines,BLR-Whitefield,Bengaluru,South,Self Pay,4,435.61,1742.44,0.0,Paid
+BL100209,VS50069,PT1132,Male,3,2025-04-07,Inpatient,Pediatrics,Dr. Pillai,Lab Test,Thyroid Test,BLR-Whitefield,Bengaluru,South,Self Pay,1,939.98,939.98,0.0,Paid
+BL100147,VS50049,PT1329,Male,51,2025-07-06,Inpatient,Neurology,Dr. Sen,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Self Pay,2,164.99,329.98,0.0,Paid
+BL100888,VS50296,PT1130,Male,71,2025-06-04,Inpatient,Neurology,Dr. Sen,Room Charges,Private Room Bed-Day,HYD-Central,Hyderabad,South,Government Scheme,3,5528.68,16586.04,14927.44,Paid
+BL100807,VS50269,PT1197,Male,48,2025-12-01,Outpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,MUM-Andheri,Mumbai,West,Private Insurance,1,396.02,396.02,316.82,Paid
+BL100668,VS50220,PT1138,Male,42,2025-08-22,Emergency,Orthopedics,Dr. Reddy,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Self Pay,1,843.16,843.16,0.0,Paid
+BL100552,VS50182,PT1320,Female,49,2025-07-22,Outpatient,General Medicine,Dr. Joshi,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Private Insurance,1,975.77,975.77,780.62,Paid
+BL100448,VS50149,PT1013,Female,10,2025-01-07,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,CHN-Adyar,Chennai,South,Corporate,1,578.92,578.92,405.24,Paid
+BL100507,VS50167,PT1003,Male,69,2025-09-23,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Self Pay,1,813.04,813.04,0.0,Paid
+BL100962,VS50321,PT1121,Female,29,2025-05-15,Inpatient,Orthopedics,Dr. Khan,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,3,176.77,530.31,0.0,Paid
+BL100516,VS50170,PT1383,Female,28,2025-12-12,Outpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1016.23,1016.23,0.0,Paid
+BL100401,VS50135,PT1002,Female,73,2025-06-01,Outpatient,Cardiology,Dr. Rao,Pharmacy,Medicines,DEL-Saket,Delhi,North,Self Pay,4,585.65,2342.6,0.0,Pending
+BL100879,VS50294,PT1023,Male,13,2025-07-22,Outpatient,Neurology,Dr. Sen,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,961.5,961.5,769.2,Paid
+BL100838,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,Procedure,Physiotherapy Session,MUM-Andheri,Mumbai,West,Self Pay,1,1183.89,1183.89,0.0,Paid
+BL100707,VS50234,PT1316,Male,14,2025-06-11,Inpatient,Dermatology,Dr. Patil,Consultation,Doctor Consultation,PUN-Kothrud,Pune,West,Private Insurance,1,537.38,537.38,429.9,Pending
+BL100457,VS50152,PT1124,Female,64,2025-12-30,Inpatient, orthopedics ,Dr. Khan,Room Charges,Private Room Bed-Day,PUN-Kothrud,Pune,West,Self Pay,4,4179.96,16719.84,0.0,Paid
+BL100254,VS50083,PT1060,Female,74,2025-01-21,Outpatient,Dermatology,Dr. Patil,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Private Insurance,1,829.28,829.28,663.42,Paid
+BL100243,VS50080,PT1398,Male,37,2025-08-31,Inpatient, neurology ,Dr. Sen,Procedure,Physiotherapy Session,DEL-Saket,Delhi,North,Self Pay,1,1482.5,1482.5,0.0,Paid
+BL100757,VS50250,PT1281,Female,11,2025-03-22,Outpatient,Pediatrics,Dr. Pillai,Scan,X-Ray,CHN-Adyar,Chennai,South,Government Scheme,1,708.19,708.19,637.37,Pending
+BL100835,VS50280,PT1109,Female,46,2025-12-16,Inpatient,Cardiology,Dr. Mehta,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Self Pay,1,1254.71,1254.71,0.0,Paid
+BL100646,VS50212,PT1400,Female,85,2025-03-22,Outpatient,Cardiology,Dr. Rao,Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,  Corporate,1,981.39,981.39,686.97,Pending
+BL100611,VS50199,PT1237,Male,4,2025-02-14,Outpatient,Pediatrics,Dr. Pillai,  Consultation,Doctor Consultation,HYD-Central,Hyderabad,South,Self Pay,1,1124.58,1124.58,0.0,Pending
+BL100229,VS50075,PT1001,Female,46,2025-09-04,Outpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,MUM-Andheri,Mumbai,West,Private Insurance,1,820.32,820.32,656.26,Paid
+BL100382,VS50129,PT1263,Female,18,2025-01-04,Inpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,BLR-Whitefield,Bengaluru,South,Private Insurance,1,1384.69,1384.69,1107.75,Paid
+BL100337,VS50112,PT1005,Male,7,2025-08-07,Emergency,Neurology,Dr. Sen,Pharmacy,Medicines,CHN-Adyar,Chennai,South,Self Pay,5,512.84,2564.2,0.0,Paid
+BL100164,VS50054,PT1056,Male,17,2025-12-21,Inpatient,Orthopedics,Dr. Khan, lab test ,Thyroid Test,HYD-Central,Hyderabad,South,Corporate,1,1043.04,1043.04,730.13,Paid
+BL100571,VS50187,PT1043,Female,64,2025-11-29,Inpatient,Cardiology,Dr. Mehta,Scan,Ultrasound,PUN-Kothrud,Pune,West,Corporate,1,1949.67,1949.67,1364.77,Paid
+BL100919,VS50307,PT1148,Female,57,2025-03-12,Inpatient,Cardiology,Dr. Rao,Procedure,Minor Surgery,PUN-Kothrud,Pune,West,Private Insurance,1,17726.43,17726.43,14181.14,Paid
+BL100615,VS50200,PT1302,Male,26,2025-02-20,Outpatient,Orthopedics,Dr. Reddy,Pharmacy,Medicines,MUM-Andheri,Mumbai,West,Government Scheme,4,446.02,1784.08,1605.67,Paid
+BL100918,VS50307,PT1148,Female,57,2025-03-12,Inpatient,Cardiology,Dr. Rao,Lab Test,Blood Test,PUN-Kothrud,Pune,West,Private Insurance,1,817.96,817.96,654.37,Paid
+BL100098,VS50032,PT1038,Male,65,2025-03-24,Outpatient,Dermatology,Dr. Patil,Pharmacy,Medicines,HYD-Central,Hyderabad,South,Self Pay,4,169.8,679.2,0.0,Paid
+BL100564,VS50185,PT1341,Female,2,2025-05-10,Inpatient,Pediatrics,Dr. Pillai,Pharmacy,Medicines,BLR-Whitefield,  Bengaluru,South,Corporate,4,346.67,1386.68,970.68,Paid
+BL100295,VS50099,PT1146,Male,47,2025-09-27,Inpatient,Neurology,Dr. Sen,Scan,X-Ray,MUM-Andheri,Mumbai,West,Self Pay,1,498.36,498.36,0.0,Paid
+BL100475,VS50159,PT1077,Female,50,2025-07-16,Inpatient,General Medicine,Dr. Nair,Consultation,Doctor Consultation,CHN-Adyar,Chennai,South,Private Insurance,1,1107.83,1107.83,886.26,Pending
+BL100953,VS50318,PT1050,Female,75,2025-07-11,Outpatient,Cardiology,Dr. Mehta,Lab Test,Thyroid Test,MUM-Andheri,Mumbai,West,Private Insurance,1,825.38,825.38,660.3,Paid
+BL100191,VS50063,PT1356,Male,6,2025-01-22,Outpatient, cardiology ,Dr. Rao,Pharmacy,Medicines,DEL-Saket,Delhi,North,Private Insurance,4,153.56,614.24,491.39,Paid
