@@ -72,7 +72,7 @@ The dataset includes patient and visit attributes, hospital/service details, bil
 │   ├── silver/                   # Silver cleaning and rejected-record SQL
 │   └── gold/                     # Gold business and data-quality SQL
 ├── validation/                   # reconciliation and validation queries
-├── docs/                         # project and data-quality documentation
+├── Docs/                         # project and data-quality documentation
 └── images/                       # architecture, pipeline and dashboard screenshots
 ```
 
@@ -127,7 +127,7 @@ The quality summary should make the source count, duplicate count, invalid quant
 **Expected source baseline:** 1,010 rows in Bronze. Actual clean, rejected, duplicate and reconciliation results must be populated from the completed pipeline run; they are not specified in the project brief.
 
 Validation queries: [`validation/`](validation/)  
-Reconciliation notes: [`Docs/reconciliation.md`](docs/reconciliation.md)
+Reconciliation notes: [`Docs/reconciliation.md`](Docs/reconciliation.md)
 
 ## How to Run
 1. Create or select a Unity Catalog catalog and schema. The project brief uses `healthcare_catalog.billing`.
