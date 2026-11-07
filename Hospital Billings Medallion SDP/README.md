@@ -2,7 +2,7 @@
 
 An end-to-end hospital billing data engineering project on **Azure Databricks**, built with **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture** (Bronze → Silver → Gold). It transforms a synthetic hospital billing CSV into cleaned, validated, business-ready summary tables for revenue, departments, branches, and payer analysis.
 
-![Architecture](images/architecture.png)
+![architecture](images/architecture.png)
 
 ## Table of Contents
 - [Business Problem](#business-problem)
