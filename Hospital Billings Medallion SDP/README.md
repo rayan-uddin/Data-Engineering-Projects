@@ -115,7 +115,7 @@ Example source location from the project brief:
 | Invalid quantity | Reject rows where `quantity <= 0` and retain a rejection reason |
 | Negative unit price | Reject rows where `unit_price < 0` and retain a rejection reason |
 
-Details: [`docs/data_quality_rules.md`](docs/data_quality_rules.md)
+Details: [`Docs/data_quality_rules.md`](Docs/data_quality_rules.md)
 
 ## Reconciliation
 The project brief defines the reconciliation condition as:
@@ -127,7 +127,7 @@ The quality summary should make the source count, duplicate count, invalid quant
 **Expected source baseline:** 1,010 rows in Bronze. Actual clean, rejected, duplicate and reconciliation results must be populated from the completed pipeline run; they are not specified in the project brief.
 
 Validation queries: [`validation/`](validation/)  
-Reconciliation notes: [`docs/reconciliation.md`](docs/reconciliation.md)
+Reconciliation notes: [`Docs/reconciliation.md`](docs/reconciliation.md)
 
 ## How to Run
 1. Create or select a Unity Catalog catalog and schema. The project brief uses `healthcare_catalog.billing`.
