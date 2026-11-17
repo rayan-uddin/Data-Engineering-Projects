@@ -2,7 +2,7 @@
 
 ## 1. End-to-end architecture
 
-![Medallion architecture](../images/medallion_architecture.png)
+![Medallion architecture](../Images/medallion_architecture.png)
 
 The project uses a Bronze → Silver → Gold pattern.
 
@@ -44,7 +44,7 @@ Silver contains two outputs:
 
 Cleaning includes deduplication, text standardisation, filling selected missing values, and validating stay dates and room rates.
 
-![Silver cleaning workflow](../images/silver_cleaning_workflow.png)
+![Silver cleaning workflow](../Images/Silver_Layer_Cleaning.png.png)
 
 ### Gold — business summaries
 
