@@ -78,7 +78,7 @@ Hotel Booking Medallion Lakeflow/
 ## Data Cleaning Rules
 Silver cleaning is done in four simple steps. Each step uses one SQL idea.
 
-- [Silver Layer Cleaning](Images/Silver_Layer_Cleaning.png)
+![Silver Layer Cleaning](Images/Silver_Layer_Cleaning.png)
 
 ## Gold tables described in the brief
 
