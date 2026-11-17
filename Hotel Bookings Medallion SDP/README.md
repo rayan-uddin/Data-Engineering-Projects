@@ -12,7 +12,7 @@ This project describes a repeatable pipeline that preserves the source data, cle
 
 ## Architecture
 
-![Hotel booking medallion architecture](images/medallion_architecture.png)
+![Data-Engineering-Projects](Hotel Bookings Medallion SDP/Images/medallion_architecture.png)
 
 The pipeline follows three layers:
 
