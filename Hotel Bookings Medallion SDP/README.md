@@ -95,7 +95,7 @@ Silver cleaning is done in four simple steps. Each step uses one SQL idea.
 - [Architecture and pipeline design](Docs/architecture.md)
 - [Dataset and column dictionary](Docs/data_dictionary.md)
 - [Data cleaning, quality checks and reconciliation](Docs/data_quality.md)
-- [Dashboard requirements and build guide](Docs/dashboard.md)
+- [Dashboard requirements and build guide](Docs/Hotel_Booking_Analytics.pdf)
 
 ## Important implementation notes
 
