@@ -87,10 +87,10 @@ Hotel Booking Medallion Lakeflow/
 
 ## Documentation
 
-- [Architecture and pipeline design](docs/architecture.md)
-- [Dataset and column dictionary](docs/data_dictionary.md)
-- [Data cleaning, quality checks and reconciliation](docs/data_quality.md)
-- [Dashboard requirements and build guide](docs/dashboard.md)
+- [Architecture and pipeline design](Docs/architecture.md)
+- [Dataset and column dictionary](Docs/data_dictionary.md)
+- [Data cleaning, quality checks and reconciliation](Docs/data_quality.md)
+- [Dashboard requirements and build guide](Docs/dashboard.md)
 
 ## Important implementation notes
 
