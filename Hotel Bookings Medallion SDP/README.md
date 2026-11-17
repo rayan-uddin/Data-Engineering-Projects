@@ -22,7 +22,7 @@ The pipeline follows three layers:
 | Silver | Standardise values, remove duplicate records, separate invalid records | `silver_bookings_clean`, `silver_bookings_rejected` |
 | Gold | Publish business-level aggregations and data-quality metrics | Monthly, hotel, room-type, channel and quality summaries |
 
-See [Architecture and pipeline design](docs/architecture.md) for details.
+See [Architecture and pipeline design](Docs/architecture.md) for details.
 
 ## Dataset
 
