@@ -12,7 +12,7 @@ The project brief identifies the following planted issues:
 
 ## 2. Silver cleaning rules
 
-![Silver cleaning workflow](../images/silver_cleaning_workflow.png)
+![Silver cleaning workflow](../Images/Silver_Layer_Cleaning.png)
 
 | Issue | Treatment |
 |---|---|
