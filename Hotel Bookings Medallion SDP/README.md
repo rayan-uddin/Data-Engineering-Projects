@@ -75,6 +75,11 @@ Hotel Booking Medallion Lakeflow/
 6. Validate row counts and reconciliation.
 7. Build a three-page dashboard in **one** tool: Databricks AI/BI or Power BI.
 
+## Data Cleaning Rules
+Silver cleaning is done in four simple steps. Each step uses one SQL idea.
+
+- [Silver Layer Cleaning](Images/Silver layer Cleaning.png)
+
 ## Gold tables described in the brief
 
 | Table | Grain |
