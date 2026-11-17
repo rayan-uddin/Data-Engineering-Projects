@@ -44,7 +44,7 @@ Silver contains two outputs:
 
 Cleaning includes deduplication, text standardisation, filling selected missing values, and validating stay dates and room rates.
 
-![Silver cleaning workflow](../Images/Silver_Layer_Cleaning.png.png)
+![Silver cleaning workflow](../Images/Silver_Layer_Cleaning.png)
 
 ### Gold — business summaries
 
